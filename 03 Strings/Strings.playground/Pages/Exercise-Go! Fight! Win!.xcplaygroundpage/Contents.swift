@@ -17,10 +17,11 @@
  */
 
 
-let schoolName = "YOUR SCHOOL NAME"
-let refrain = "hmm hmm HMMM hm-hmm \(schoolName) hmm hmm HMMMMM"
+let schoolName = "tabuk"
+let refrain = "tee rraa tttrr hm-hmm \(schoolName) terara rrr r"
 
 let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
+
 
 
 

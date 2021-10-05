@@ -14,12 +14,13 @@ let welcomeString = "Hello \(firstName), welcome to \(city)"
 //: “I like _____ because it is _____.”
 //:
 // Change this to your favorite food
-let favoriteFood = "pie"
+let favoriteFood = "kabsa"
 
 // Change this to why you like it
 let reason = "tasty"
 
 // Define a string below in the pattern "I like ___ because it is ___."
+let likefood = "Ilike \(favoriteFood), because is it \(reason)"
 
 
 //: On the next page, see what happens with long strings.

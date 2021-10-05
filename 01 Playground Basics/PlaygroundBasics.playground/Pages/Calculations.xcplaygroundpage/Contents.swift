@@ -5,7 +5,7 @@
 34 + 56 + 230
 
 1000 - 300
-
+1000 + 200 - 300
 //: For multiplication, use the asterisk `*` :
 3 * 100
 //: For division, use the slash `/` :
@@ -20,3 +20,9 @@
 //: Next, learn how programmers can leave notes in code.
 //:
 //:[Previous](@previous)  |  page 3 of 7  |  [Next: Comments](@next)
+4 + 9
+10 - 6
+4 * 2
+33 / 3
+(12 - 10 + 33) / 2
+
