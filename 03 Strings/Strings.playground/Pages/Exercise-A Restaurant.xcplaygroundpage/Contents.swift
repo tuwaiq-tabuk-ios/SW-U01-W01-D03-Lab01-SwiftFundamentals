@@ -30,7 +30,9 @@ let serverResponseToTableTwo = "Let me make sure I've got this right: <Enter the
 
 let tableTwoResponse = "Perfect, merci bien."
 
-
-
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let ServerResponseToTableTwo = "Let me make sure I've got this right:\(customerOrderFour) \(customerOrderFive) \(customerOrderSix)"
+
+
+let TableTwoResponse = "Perfect, merci bien"

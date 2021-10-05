@@ -21,3 +21,8 @@
 
 
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+var phoneStorage = 8 * 1000
+var usedStorage = 3 * 1000
+var remainStorage = phoneStorage - usedStorage
+var videoStorage = 150
+var minutes = remainStorage/videoStorage

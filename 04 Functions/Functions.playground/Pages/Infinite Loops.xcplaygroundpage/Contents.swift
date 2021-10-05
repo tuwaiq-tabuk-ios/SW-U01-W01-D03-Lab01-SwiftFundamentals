@@ -32,3 +32,9 @@ verseOne()
  
  [Previous](@previous)  |  page 7 of 12  |  [Next: Hiding Complexity](@next)
 */
+
+func VerseOne() {
+    rowTheBoat()
+    merrilyDream()
+    // verseOne() Infinite Loops
+}
