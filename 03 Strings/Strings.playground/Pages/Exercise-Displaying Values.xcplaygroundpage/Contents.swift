@@ -14,7 +14,12 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
-
+let iphoneSpace = 8 * 1000
+let usedSpace = 3 * 1000
+let theRemainingSpace = iphoneSpace - usedSpace
+let oneMinute = 150
+let minutesTaken = oneMinute * theRemainingSpace
+let final = "You can record \(minutesTaken) more minutes of video"
 
 
 

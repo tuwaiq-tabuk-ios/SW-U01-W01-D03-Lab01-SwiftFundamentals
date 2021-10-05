@@ -20,3 +20,12 @@
 //: Next, learn how programmers can leave notes in code.
 //:
 //:[Previous](@previous)  |  page 3 of 7  |  [Next: Comments](@next)
+//addition and subtraction
+3 + 4
+1000 - 500
+//For division, use the slash /
+24 / 5
+//For multiplication, use the asterisk *
+5 * 6
+//For grouping, use parenthesis ( ) :
+(30 + 60 + 40) / 3
