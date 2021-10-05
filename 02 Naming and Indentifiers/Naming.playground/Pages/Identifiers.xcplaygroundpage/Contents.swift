@@ -16,6 +16,7 @@ let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numbe
 
 let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 
+
 //: - experiment: There are even more changes in the pets expected at the pet show.\
 //:To add new kinds of animals, add new lines of code that define new constants. (To add a new line of code just click on a blank line in the area above and start typing.)
 //:
@@ -27,3 +28,15 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: Next, learn about choosing names. 
 //:
 //:[Previous](@previous)  |  page 6 of 14  |  [Next: Choosing Good Names](@next)
+let numberOfPigs = 1
+
+let numberOfFishes = 1
+
+let numberOfSnakes = 1
+
+let totalNumberOfAnimals2 = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberOfPigs + numberOfFishes + numberOfSnakes
+
+let totalNumberOfMammals2 = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPigs
+
+
+

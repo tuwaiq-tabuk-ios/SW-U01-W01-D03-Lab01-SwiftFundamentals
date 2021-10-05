@@ -15,6 +15,17 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
     Sample story: “Today was a big day for <name>. They had finally saved up <number> dollars and were going to buy a <adjective> <noun>. They went to the <noun> <place> feeling very <positive emotion>. But then they felt <negative emotion>. They were all out of <noun>!”
 */
 // Add your version of the story below
+let mainCharacterName = "Noura"
+let savings = 100
+let adjective = "large"
+let purchase = "TV"
+let placeName = "Cinema"
+let positiveEmotion = "happy"
+let negativeEmotion = "angry"
+let noun = "control!"
+
+let storyTime = "Today was a big day for \(mainCharacterName). They had finally saved up \(savings) dollars and were going to buy a \(adjective) \(purchase). They went to the \(placeName) feeling very \(positiveEmotion). But then they felt \(negativeEmotion). They were all out of \(noun)"
+
 
 
 

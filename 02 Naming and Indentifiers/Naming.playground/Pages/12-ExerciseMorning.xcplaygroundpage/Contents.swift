@@ -6,9 +6,22 @@
  - callout(Exercise): Create a constant for each activity you do in the morning before leaving home: things like `brushTeeth`, `uploadPhotos`, `chooseClothes`, `shower`, `goJogging`, `finishHomework`, `fixLunch`, and so on. Think about how many minutes each activity usually takes, and assign that value to each constant.
  */
 let brushTeeth = 3
-// Add more here...
+
+let uploadPhotos = 10
+
+let chooseClothes = 3
+
+let shower = 15
+
+let goJogging = 10
+
+let finishHomework = 20
+
+let fixLunch = 30
+
 
 //: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
+let totalTimeOfActivities = brushTeeth + uploadPhotos + chooseClothes + shower + goJogging + finishHomework + fixLunch
 
 
 
@@ -17,17 +30,28 @@ let brushTeeth = 3
 //:If there are things you don’t have to do and don't like to do, make a third group and go ahead and sum that one, too. \
 //:\
 //:Make a new constant for each group.
-
-
+let thingsIHaveToDo = brushTeeth + chooseClothes + finishHomework + fixLunch
+let thingsILikeToDo = shower + goJogging
 
 /*:
  See what happens to your total time spent getting ready if you tweak the durations of the different activities. How short of a shower would you have to take in order to have more time to message your friends? Or go for a longer run? How much more time would you need if you decided to spend as long as you wanted doing all the activities you like best?
  
  Change the numbers until you’ve got a design for your ideal morning. What would have to change in order for you to be able to actually spend your morning time this way?
 */
+let brushTeeth2 = 2
 
+let uploadPhotos2 = 5
 
+let chooseClothes2 = 10
 
+let shower2 = 20
 
+let goJogging2 = 15
 
-//:[Previous](@previous)  |  page 13 of 14  |  [Next: Exercise: Good Names](@next)
+let finishHomework2 = 30
+
+let fixLunch2 = 30
+
+let totalTimeSpent = brushTeeth2 + uploadPhotos2 + chooseClothes2 + shower2 +
+goJogging2 + finishHomework2 + fixLunch2
+

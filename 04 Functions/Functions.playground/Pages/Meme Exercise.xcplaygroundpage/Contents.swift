@@ -9,10 +9,22 @@
  
  Write out the song or meme using `print` statements, then look for patterns and repetition and choose groups of lines to combine into functions. This is a free-form exercise, so you can do whatever you like.
 */
+func bohemianRhapsody() {
+    print("Galileo, Galileo, Galileo Figaro")
+    print("Oh mama mia, mama mia, mama mia!")
+}
 
+func atTheRiver () {
+    print("let me GO, GO, GO")
+    print("it beats for you, you, youh")
+    
+}
 
-
-
+func verseOne() {
+    bohemianRhapsody()
+    atTheRiver ()
+}
+verseOne()
 
 
 
