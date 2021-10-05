@@ -17,3 +17,34 @@ verseThree()
  
  [Previous](@previous)  |  page 8 of 12  |  [Next: Change Something Once](@next)
 */
+func rowTheBoat() {
+    print("Row, row, row your boat")
+    print("Gently down the stream")
+}
+
+func merrilyDream() {
+    print("Merrily, merrily, merrily, merrily")
+    print("Life is but a dream")
+}
+
+func verseOne() {
+    rowTheBoat()
+    merrilyDream()
+}
+
+func verseTwo() {
+    rowTheBoat()
+    merrilyDream()
+}
+func verseThree() {
+    rowTheBoat()
+    merrilyDream()
+}
+func breatheBetweenVerses(){
+    print("space ")
+}
+verseOne()
+breatheBetweenVerses()
+verseTwo()
+breatheBetweenVerses()
+verseThree()

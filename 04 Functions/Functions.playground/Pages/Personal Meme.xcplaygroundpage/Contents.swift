@@ -36,3 +36,13 @@
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //: [Previous](@previous)  |  page 12 of 12
+print("Do you know what's the most beautiful thing in you ..")
+print("What a moon that compares with u ")
+print("come on .. i' ll tell you what's the most beautiful thing in you .. or you know what I mean and what i'm thinking of ..")
+print("In you waht I have always dream of .")
+print("Nights .. Yalla .. enchalla I die in your love enchalla .")
+print("it's too much on me this love (walla: i swear by god)")
+print("what can i wish more than this ..")
+print ("yalla .. enchalla i die in your love enchalla")
+print ("it's too much on me this love (walla: i swear by god)")
+print("what can i wish more than this ..")

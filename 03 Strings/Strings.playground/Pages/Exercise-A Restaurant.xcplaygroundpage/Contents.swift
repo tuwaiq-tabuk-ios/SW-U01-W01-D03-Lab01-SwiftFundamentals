@@ -34,3 +34,9 @@ let tableTwoResponse = "Perfect, merci bien."
 
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let serverResponseToTableOne1 = "Let me make sure I've got this right: 돌솥비빔밥, Pasztecik szczeciński, and 小笼包.\n Is that everything?"
+
+let tableTwoResponse1 = "Perfect, merci bien."
+
+
+
