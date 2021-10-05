@@ -31,3 +31,18 @@
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //:[Previous](@previous)  |  page 16 of 16
+let iPhoneStoreageGB = 8
+
+ let MegaBayte = 1000
+
+ let iPhoneStoreageMB = iPhoneStoreageGB * MegaBayte
+
+ let iPhoneStoreageHasGB = 3
+
+ let iPhoneStoreageHasMB = iPhoneStoreageHasGB * MegaBayte
+
+ let videoTakesMB = 150
+
+ let MinutesHave = (iPhoneStoreageMB - iPhoneStoreageHasMB) / videoTakesMB
+
+ let message = "You can \(MinutesHave) more minutes of video."

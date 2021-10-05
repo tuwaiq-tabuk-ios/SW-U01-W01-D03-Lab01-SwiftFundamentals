@@ -24,6 +24,16 @@ let rhso = co - lhso
 
 
 //: - experiment: Rewrite the code so that it makes sense without needing a note. Use meaningful names and comments.
+let countOrange = 14
+let contWatermelons = 3
+let orangeWeigh = 100
+let WatermelonsWeigh = 200
+let truckOrange = countOrange * orangeWeigh
+let truckWatermelon = contWatermelons * WatermelonsWeigh
+let trucktotle = truckOrange + truckWatermelon
+let eachSide = trucktotle / 2
+let lefHandSide = eachSide / orangeWeigh
+let RightHandSide = countOrange - lefHandSide
 
 
 
@@ -41,3 +51,4 @@ let rhso = co - lhso
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //:[Previous](@previous)  |  page 14 of 14
+

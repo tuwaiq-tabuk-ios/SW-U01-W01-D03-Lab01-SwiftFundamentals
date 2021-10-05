@@ -9,7 +9,22 @@
  
  Write out the song or meme using `print` statements, then look for patterns and repetition and choose groups of lines to combine into functions. This is a free-form exercise, so you can do whatever you like.
 */
+func song (){
+    print("Row, row, row your boat")
+    print("Gently down the stream")
+}
 
+func breathe() {
+    print("        ~        ")
+}
+
+func startSong (){
+    song()
+    breathe()
+//    startSong() // add comment for stop the loop
+}
+
+startSong()
 
 
 
