@@ -14,7 +14,12 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let iphoneStorageInMB = 8 * 1000
+let iphoneStorageUsedInMB = 3 * 1000
+let oneMinuteVideoUsedInMB = 150
 
+let minutuesToFillThePhone = (iphoneStorageInMB - iphoneStorageUsedInMB) / oneMinuteVideoUsedInMB
+ let TheAnswer = "you can record \(minutuesToFillThePhone) more minutes of video"
 
 
 
