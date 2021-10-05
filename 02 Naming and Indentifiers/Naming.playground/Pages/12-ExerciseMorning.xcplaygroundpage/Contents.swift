@@ -31,3 +31,26 @@ let brushTeeth = 3
 
 
 //:[Previous](@previous)  |  page 13 of 14  |  [Next: Exercise: Good Names](@next)
+let brushTeeth2 = 4
+
+let uploadPhotos = 10
+
+let chooseClothes = 6
+
+let shower = 20
+
+let goJogging = 15
+
+let finishHomework = 40
+
+let fixLunch = 60
+
+let theTotalTimeOfAllTheActivities = brushTeeth2 + uploadPhotos + chooseClothes + shower + goJogging + finishHomework + fixLunch
+
+let thingsIhaveToDo = brushTeeth2 + shower + finishHomework + chooseClothes
+
+let thingsIlikeToDo = uploadPhotos + goJogging
+
+
+
+

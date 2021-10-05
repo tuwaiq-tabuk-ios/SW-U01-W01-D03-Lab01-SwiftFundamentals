@@ -34,3 +34,6 @@ let tableTwoResponse = "Perfect, merci bien."
 
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let serverResponseToTableThree = "Let me make sure I've got this right : 돌솥비빔밥,Pasztecik szczeciński and 小笼包 . Is that everything?"
+
+let tableThreeResponse = " 네 감사합니다 "
