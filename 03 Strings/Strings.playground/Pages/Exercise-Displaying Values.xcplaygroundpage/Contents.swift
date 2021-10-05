@@ -14,7 +14,13 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let iPhonestorageinMegabytes = 8 * 1000
 
+let iPhonestorageUsedinMegabytes = 3 * 1000
+
+let OneminuteVideoUsedInMegabytes = 150
+
+let step = " The iPhone in question has 8GB , and A gigabyte is about 1,000 megabytes,The phone already has 3GB of stuff on it "
 
 
 

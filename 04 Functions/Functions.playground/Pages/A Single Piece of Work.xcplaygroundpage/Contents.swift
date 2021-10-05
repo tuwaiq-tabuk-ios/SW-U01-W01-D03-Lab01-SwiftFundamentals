@@ -18,7 +18,9 @@ func rowTheBoat() {
  
  To actually run the code, you have to _call_ the function. Typing the name of the function will call the function. Uncomment the line below:
 */
-// rowTheBoat()
+ rowTheBoat()
+
+
 /*:
  When you've called a function in a playground, you'll see results appear in the sidebar. Calling the `rowTheBoat` function will print text in the console area below, too.
 
@@ -26,7 +28,11 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
-
+func Names(){
+    print("mohammed, kalid, fahd ")
+    
+}
+Names()
 
 
 

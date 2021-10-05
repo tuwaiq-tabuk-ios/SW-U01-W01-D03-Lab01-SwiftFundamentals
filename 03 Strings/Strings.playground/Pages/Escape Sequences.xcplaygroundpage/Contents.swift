@@ -20,3 +20,4 @@ let startOfAPoem = "Roses are red.\nViolets are blue."
 //: Move on to the next page to wrap things up.
 //:
 //:[Previous](@previous)  |  page 11 of 16  |  [Next: Wrapup](@next)
+let startOfAPoem2 = "Roses are red.Violets are blue."
