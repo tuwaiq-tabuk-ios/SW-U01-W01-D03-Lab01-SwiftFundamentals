@@ -19,3 +19,11 @@ let newline = "Making new lines"
 
 //:
 //:[Previous](@previous)  |  page 13 of 16  |  [Next: Exercise: A Restaurant](@next)
+let iLearned = """
+\(constants)
+\(unicode)
+\(combining)
+\(interpolation)
+\(escaping)
+\(newline)
+"""

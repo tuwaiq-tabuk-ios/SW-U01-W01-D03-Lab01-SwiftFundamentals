@@ -15,7 +15,9 @@
 3
 //: Then you could copy those numbers onto new lines of code and let the playground do some math for you, like this:
 // Total Number Of Animals
-5 + 4 + 3
+5 + 4 + 3+2
+4*4
+
 
 // Total Number Of Mammals
 5 + 4
@@ -34,3 +36,5 @@
 //:  Could there be a better way to solve this problem? Think about it for a minute or two, then move on.
 //:
 //:[Previous](@previous)  |  page 2 of 14  |  [Next: Pet Problem Recap](@next)
+7+7
+

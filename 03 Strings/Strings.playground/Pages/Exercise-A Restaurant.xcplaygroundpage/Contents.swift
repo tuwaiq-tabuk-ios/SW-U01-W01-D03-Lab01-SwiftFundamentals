@@ -34,3 +34,6 @@ let tableTwoResponse = "Perfect, merci bien."
 
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let serverResponseToTableTwo2 = "Let me make sure I've got this right: \(customerOrderFour) \(customerOrderFive), \(customerOrderSix). Is that everything?"
+
+ let tableTwoResponse2 = "Perfect, merci bien."
