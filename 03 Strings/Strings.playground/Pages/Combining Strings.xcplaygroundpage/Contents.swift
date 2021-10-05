@@ -35,3 +35,24 @@ let finishedMessage = username + " " + likesYourPostMessage
 //: Next, find out how building strings by adding them can get complicated.
 //:
 //:[Previous](@previous)  |  page 5 of 16  |  [Next: Fill In The Blanks](@next)
+// Declare a firstName constant
+
+let firstName : String = "Hajar" //by defult the compiler will know its a string from the double quotation but i write (: Sring) just in case :)
+
+
+// Declare a lastName constant
+
+let lastName : String = "Alatawi"
+
+
+// Combine the strings into a fullName constant
+
+let fullName : String =  firstName + " " + lastName
+
+
+// Combine your first name with likesYourPostMessage
+
+let likesYourPostMessage2 : String = "\(firstName) likes your post"
+
+
+

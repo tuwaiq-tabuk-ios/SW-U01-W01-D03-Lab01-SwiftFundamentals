@@ -29,9 +29,11 @@ verseOne()
   - callout(Exercise): Write a function for an alternate second verse of the song using the laughing submarine function below.
 */
 func laughingSubmarine() {
+    
     print("Ha! Ha! Fooled you all")
     print("I’m a submarine")
 }
+
 
 // Write the verse two function below
 
@@ -39,3 +41,16 @@ func laughingSubmarine() {
 //: On the next page, learn about one of the things that can go wrong when using functions of functions.
 //:
 //: [Previous](@previous)  |  page 6 of 12  |  [Next: Infinite Loops](@next)
+
+func laughingSubmarine1 () {
+        print("Merrily, merrily, merrily, merrily")
+        print("Life is but a dream")
+}
+
+func verseTwo(){
+    laughingSubmarine1()
+    
+}
+ verseTwo()
+
+

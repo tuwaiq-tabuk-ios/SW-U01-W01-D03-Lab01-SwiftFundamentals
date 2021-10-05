@@ -24,7 +24,6 @@
 
 
 
-
 /*:
  
  _Copyright © 2017 Apple Inc._
@@ -36,3 +35,21 @@
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //: [Previous](@previous)  |  page 12 of 12
+func song1 (){
+print("you know you're NOT my saving grace")
+print("You're everything BUT OTHER THAN THAT")
+print("It's written all over your face")
+print("Baby, I can'T feel your halo")
+print("Pray it fade away")
+print("I can'T feel your halo (halo) halo")
+print("I can'T see your halo (halo) halo")
+print("I can'T feel your halo (halo) halo")
+print("I can'T see your halo (halo) halo")
+}
+func favsong1 (){
+    song1()
+    
+}
+favsong1()
+
+

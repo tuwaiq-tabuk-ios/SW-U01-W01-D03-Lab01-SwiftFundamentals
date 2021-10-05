@@ -16,8 +16,10 @@
  _Hint_: Do all of your calculations in megabytes (MB).
 */
 
-
-
-
-
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+let IphoneStorage = 8 * 1000 // convert from GB to MB
+let IphoneOcuppiedStorage = 3 * 1000 //convert from GB to MB
+let IphoneFreeStorage = IphoneStorage - IphoneOcuppiedStorage
+let OneMinute = 150
+let MinutesTakenToFullStorage = OneMinute * IphoneFreeStorage
+

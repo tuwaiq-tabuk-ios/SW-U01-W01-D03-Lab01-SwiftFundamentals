@@ -26,3 +26,9 @@ let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
 
 //:
 //:[Previous](@previous)  |  page 15 of 16 |  [Next: Exercise: Displaying Values](@next)
+let theschoolName = "King Abdulaziz"
+let refrain_ = "hmm hmm HMMM hm-hmm \(theschoolName) hmm hmm HMMMMM"
+
+let thesong = "\(refrain_)\n\(refrain_)\nYes, \(refrain_)"
+
+print(thesong)

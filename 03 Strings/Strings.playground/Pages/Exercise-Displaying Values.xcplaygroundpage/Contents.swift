@@ -31,3 +31,11 @@
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //:[Previous](@previous)  |  page 16 of 16
+let IphoneStorage = 8 * 1000 // convert from GB to MB
+let IphoneOcuppiedStorage = 3 * 1000 //convert from GB to MB
+let IphoneFreeStorage = IphoneStorage - IphoneOcuppiedStorage
+let OneMinute = 150
+let MinutesTakenToFullStorage = OneMinute * IphoneFreeStorage
+let result = "You can record \(MinutesTakenToFullStorage) more minutes of video."
+print (result)
+

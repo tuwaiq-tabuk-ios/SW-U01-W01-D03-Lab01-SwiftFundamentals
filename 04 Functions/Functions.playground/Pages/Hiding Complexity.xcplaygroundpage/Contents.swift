@@ -17,3 +17,12 @@ verseThree()
  
  [Previous](@previous)  |  page 8 of 12  |  [Next: Change Something Once](@next)
 */
+// I write the functions on a different order + I copy some of them
+breatheBetweenVerses()
+verseThree()
+verseOne()
+breatheBetweenVerses()
+verseTwo()
+breatheBetweenVerses()
+verseThree()
+breatheBetweenVerses()
