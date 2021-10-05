@@ -9,9 +9,27 @@
  
  Write out the song or meme using `print` statements, then look for patterns and repetition and choose groups of lines to combine into functions. This is a free-form exercise, so you can do whatever you like.
 */
+func chours(){
+    print("la la la la ")
+}
+func song(){
+    print("Little Jhonny wants to play")
+}
+func repeatedLines(){
+    print("Rain rain go away! ")
+    print("Come again in another day")
+}
+func versOne(){
+    chours()
+    song()
+}
+func versTwo(){
+    repeatedLines()
+    chours()
+}
 
-
-
+versTwo()
+versOne()
 
 
 

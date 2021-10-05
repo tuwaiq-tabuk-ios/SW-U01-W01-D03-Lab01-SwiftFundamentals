@@ -14,7 +14,15 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
-
+let capacity = 8
+let megabytes = 1000
+let stuffIn = 3
+let vidSize = 150
+let capacitiInMB = capacity * megabytes
+let leftCapacity = capacitiInMB - stuffIn*megabytes
+let recodMinutes = leftCapacity/vidSize
+let sentance = " The size of this iphone is \(capacity) GB, As we studid in High school that 1GB equal \(megabytes)MB so the size in MB should be \(capacitiInMB)MB and it says above that 3GB already used so the result should be \(leftCapacity) MB, so you can recored \(recodMinutes) more minutes of video. "
+print(sentance)
 
 
 

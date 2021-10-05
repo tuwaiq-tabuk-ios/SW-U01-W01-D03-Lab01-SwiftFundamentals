@@ -26,9 +26,11 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
+func call(){
+ print("It was Such an honor to meet the Queen Elizebith in person ")
+}
 
-
-
+call()
 
 
 

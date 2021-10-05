@@ -24,7 +24,16 @@ let rhso = co - lhso
 
 
 //: - experiment: Rewrite the code so that it makes sense without needing a note. Use meaningful names and comments.
-
+let coconuts = 14
+let crobsWeight = 3
+let orangesWeight  = 100
+let watermelonsWeight = 200
+let totalOranges = coconuts * orangesWeight
+let totalWeight = crobsWeight * watermelonsWeight
+let total = totalOranges + totalWeight
+let balence = total / 2
+let leftSide = balence / orangesWeight
+let rightSide = coconuts - leftSide
 
 
 

@@ -5,11 +5,11 @@
  
  When working on an app, you’re never looking at every single line of code. You’ll call a function knowing _what_ it does, but not necessarily _how_ it does it. For example, in this page all of the song creation functions have been built into the page already, so you can write the song very simply:
 */
-verseOne()
-breatheBetweenVerses()
-verseTwo()
-breatheBetweenVerses()
-verseThree()
+//verseOne()
+//breatheBetweenVerses()
+//verseTwo()
+//breatheBetweenVerses()
+//verseThree()
 /*: 
  - experiment: Move the lines around to sing the verses in a different order or copy lines to repeat a verse.
 
@@ -17,3 +17,9 @@ verseThree()
  
  [Previous](@previous)  |  page 8 of 12  |  [Next: Change Something Once](@next)
 */
+verseThree()
+breatheBetweenVerses()
+verseOne()
+breatheBetweenVerses()
+verseOne()
+

@@ -20,3 +20,4 @@ let welcomeString = "Hello " + firstName + ", welcome to " + city + "!"
 //: Move on to see how to do this in Swift.
 //:
 //:[Previous](@previous)  |  page 6 of 16  |  [Next: String Interpolation](@next)
+print(welcomeString)
