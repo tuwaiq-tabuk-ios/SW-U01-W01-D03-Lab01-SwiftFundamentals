@@ -36,3 +36,12 @@ func rowTheBoat() {
 //: Next, learn about how to think about tasks and divide them up in a way that makes sense.
 //:
 //: [Previous](@previous)  |  page 4 of 12  |  [Next: Breaking It Down](@next)
+func sum () {
+    let num1 = 2
+    let num2 = 5
+    let result1 = num1 + num2
+    print(result1)
+    
+}
+sum()
+

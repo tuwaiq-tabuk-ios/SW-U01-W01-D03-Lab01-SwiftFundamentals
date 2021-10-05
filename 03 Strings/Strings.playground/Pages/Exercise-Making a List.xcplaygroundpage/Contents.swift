@@ -13,9 +13,14 @@ let newline = "Making new lines"
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
 
-
-
-
-
 //:
 //:[Previous](@previous)  |  page 13 of 16  |  [Next: Exercise: A Restaurant](@next)
+let thignsIHaveLearned = """
+\(constants)
+\(unicode)
+\(combining)
+\(interpolation)
+\(escaping)
+\(newline)
+"""
+print (thignsIHaveLearned)

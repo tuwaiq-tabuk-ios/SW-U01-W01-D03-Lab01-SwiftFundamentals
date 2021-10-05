@@ -41,3 +41,15 @@ let rhso = co - lhso
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //:[Previous](@previous)  |  page 14 of 14
+let CountOfOranges = 14
+let CountOfWatermelons = 3
+let OrangesWeight = 100
+let WatermelonsWeight = 200
+let TotalOranges = CountOfOranges *  OrangesWeight
+let TotalWatermelons = CountOfWatermelons * WatermelonsWeight
+let Total = OrangesWeight + WatermelonsWeight
+let EachSide = Total / 2
+let LeftHandSideOranges = EachSide / OrangesWeight
+let RightHandSideOranges = CountOfOranges - LeftHandSideOranges
+
+

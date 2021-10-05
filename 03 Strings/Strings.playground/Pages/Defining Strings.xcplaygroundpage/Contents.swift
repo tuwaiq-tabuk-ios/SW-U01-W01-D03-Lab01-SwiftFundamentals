@@ -9,10 +9,14 @@ let traditionalGreeting = "Hello, world!"
 //: - experiment: Practice by declaring `favoriteMovie` and `favoriteSong` string constants for your favorite movie and song:
 // Declare a favoriteMovie constant
 
-
 // Declare a favoriteSong constant
 
 
 //: Next, take a string-based trip around the world.
 //:
 //:[Previous](@previous)  |  page 3 of 16  |  [Next: Unicode](@next)
+// Declare a favoriteMovie constant
+let favoriteMovie = "Home Alone"
+
+// Declare a favoriteSong constant
+let favoriteSong = "Imagine by: John Lennon"

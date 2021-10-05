@@ -30,3 +30,19 @@
 //: Next, make the meme your own.
 //:
 //: [Previous](@previous)  |  page 11 of 12  |  [Next: Personal Meme](@next)
+// My fav song by: Beyoncé
+func song (){
+print("you know you're my saving grace")
+print("You're everything I need and more")
+print("It's written all over your face")
+print("Baby, I can feel your halo")
+print("Pray it won't fade away")
+print("I can feel your halo (halo) halo")
+print("I can see your halo (halo) halo")
+print("I can feel your halo (halo) halo")
+print("I can see your halo (halo) halo")
+}
+func favsong (){
+    song()
+}
+favsong()
