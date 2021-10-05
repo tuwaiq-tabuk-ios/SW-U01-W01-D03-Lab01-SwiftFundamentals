@@ -1,5 +1,3 @@
-//: ## More Than Strings
-//: String interpolation is a powerful way to build strings. In addition to substituting string values, you can substitute in other values too, like numbers or even calculations.
 let goalieName = "Alison"
 let firstHalfSaves = 3
 let secondHalfSaves = 6
@@ -15,6 +13,18 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
     Sample story: “Today was a big day for <name>. They had finally saved up <number> dollars and were going to buy a <adjective> <noun>. They went to the <noun> <place> feeling very <positive emotion>. But then they felt <negative emotion>. They were all out of <noun>!”
 */
 // Add your version of the story below
+let name = "Sara and her sister"
+let number = 2000
+let adjective = "new"
+let noun = "laptop"
+let noun2 = "Jarir"
+let place = "store"
+let positiveEmotion = "excited"
+let negativeEmotion = "sad"
+let noun3 = "stock"
+
+let story = "Today was a big day for \(name). They had finally saved up \(number) dollars and were going to buy a \(adjective) \(noun). They went to the \(noun2) \(place) feeling very \(positiveEmotion). But then they felt \(negativeEmotion). They were all out of \(noun3)!"
+
 
 
 

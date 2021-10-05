@@ -19,3 +19,8 @@
 //: Next, read all about your very recent past.
 //:
 //:[Previous](@previous)  |  page 6 of 7  |  [Next: Wrapup](@next)
+100 / 0
+100 / 20
+
+
+
