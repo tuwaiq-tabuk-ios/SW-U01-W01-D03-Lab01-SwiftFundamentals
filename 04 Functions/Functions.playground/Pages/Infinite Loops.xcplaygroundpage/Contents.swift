@@ -21,6 +21,7 @@ func merrilyDream() {
 func verseOne() {
     rowTheBoat()
     merrilyDream()
+//    verseOne()
 }
 
 verseOne()
@@ -32,3 +33,6 @@ verseOne()
  
  [Previous](@previous)  |  page 7 of 12  |  [Next: Hiding Complexity](@next)
 */
+
+
+

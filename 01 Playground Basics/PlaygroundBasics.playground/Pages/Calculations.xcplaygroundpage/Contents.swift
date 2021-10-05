@@ -20,3 +20,8 @@
 //: Next, learn how programmers can leave notes in code.
 //:
 //:[Previous](@previous)  |  page 3 of 7  |  [Next: Comments](@next)
+22+55+9
+11-2-3
+4*81
+80/22
+(12+33+11)/4

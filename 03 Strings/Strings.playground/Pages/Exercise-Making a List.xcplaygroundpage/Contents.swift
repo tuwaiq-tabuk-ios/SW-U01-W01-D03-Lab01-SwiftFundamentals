@@ -12,7 +12,15 @@ let newline = "Making new lines"
 /*:
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
-
+let constants2 = "They were all outside the university"
+let unicode2 = " (😁)"
+let combining2 = constants2 + " " + unicode2
+let interpolation2 = "\(constants2) \(unicode2)"
+let escaping2 = "which university do you study in \"university tabok\""
+let newline2 = """
+what is your specialty؟
+IT
+"""
 
 
 

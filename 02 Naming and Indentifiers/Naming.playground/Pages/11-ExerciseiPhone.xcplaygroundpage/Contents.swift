@@ -21,3 +21,10 @@
 
 
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+let iphonegb = 8
+let megabytes = 1000
+let iphonegbsize = 3
+let iphonement = (iphonegb - iphonegbsize )
+let videotakes  = 150
+let totalvideotakes = ( iphonement * megabytes )/videotakes
+
