@@ -9,6 +9,9 @@ let traditionalGreeting = "Hello, world!"
 //: - experiment: Practice by declaring `favoriteMovie` and `favoriteSong` string constants for your favorite movie and song:
 // Declare a favoriteMovie constant
 
+let MyfavoriMoveIsName = "360Days"
+
+let MyfavoriSongIsName = "sad"
 
 // Declare a favoriteSong constant
 

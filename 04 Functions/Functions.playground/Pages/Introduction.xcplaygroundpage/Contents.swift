@@ -23,3 +23,5 @@
  
  page 1 of 12  |  [Next: Calling a Function](@next)
  */
+
+let simple = "make a sandwich"

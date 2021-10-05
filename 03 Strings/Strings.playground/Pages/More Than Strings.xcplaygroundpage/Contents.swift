@@ -1,5 +1,7 @@
 //: ## More Than Strings
 //: String interpolation is a powerful way to build strings. In addition to substituting string values, you can substitute in other values too, like numbers or even calculations.
+
+import Darwin
 let goalieName = "Alison"
 let firstHalfSaves = 3
 let secondHalfSaves = 6
@@ -15,6 +17,29 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
     Sample story: “Today was a big day for <name>. They had finally saved up <number> dollars and were going to buy a <adjective> <noun>. They went to the <noun> <place> feeling very <positive emotion>. But then they felt <negative emotion>. They were all out of <noun>!”
 */
 // Add your version of the story below
+let Name = "ahmed"
+
+let number = 100
+
+let adjective = "new"
+ 
+let noun1 = "car"
+ 
+let Noun2 = "Market"
+
+let place = "tabuk"
+
+let positiveEmotion =  "happy"
+
+let negativeEmotion = "Neural"
+
+let noun3 = "Location"
+
+let Samplestory =  "Today was a big day for \(Name) .They had finally saved up \(number) dollars and were going to buy a \(adjective + noun1) They went to the \(Noun2 + place) feeling very \(positiveEmotion) But then they felt \(negativeEmotion) They were all out of \(noun3) "
+
+
+
+
 
 
 

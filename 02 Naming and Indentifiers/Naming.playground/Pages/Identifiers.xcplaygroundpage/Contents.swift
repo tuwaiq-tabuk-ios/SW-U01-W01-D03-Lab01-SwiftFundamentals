@@ -8,13 +8,19 @@ let numberOfDogs = 6 + 2
 
 let numberOfCats = 5 - 1
 
+let numberofPotbelliedBellied = 1
+
+let numberofFish = 1
+
+let numberofsnake = 1
+
 let numberOfTurtles = 2 + 1
 
 let numberOfHamsters = 1 + 1
 
-let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters
+let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberofPotbelliedBellied + numberofsnake + numberofFish
 
-let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
+let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters + numberofPotbelliedBellied
 
 //: - experiment: There are even more changes in the pets expected at the pet show.\
 //:To add new kinds of animals, add new lines of code that define new constants. (To add a new line of code just click on a blank line in the area above and start typing.)
