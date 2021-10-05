@@ -24,7 +24,16 @@ let rhso = co - lhso
 
 
 //: - experiment: Rewrite the code so that it makes sense without needing a note. Use meaningful names and comments.
-
+let Box = 14
+let watermelonloads = 3
+let orangesweigh = 100
+let watermelonsweigh = 200
+let traceorangesweigh = Box * orangesweigh
+let tracw = watermelonloads * watermelonsweigh
+let watermelonransportcar = traceorangesweigh + tracw
+let halfaloadofwatermelon = watermelonransportcar / 2
+let leftload = halfaloadofwatermelon/orangesweigh
+let rightload = Box - leftload
 
 
 

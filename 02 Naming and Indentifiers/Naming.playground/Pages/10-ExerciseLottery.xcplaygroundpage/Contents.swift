@@ -31,3 +31,22 @@ let programmersCut = profit / 10 // This is the answer you want to get over 100!
 let friendsCut = profit - programmersCut
 
 //:[Previous](@previous)  |  page 11 of 14  |  [Next: Exercise: What Fits on Your iPhone?](@next)
+let ticketsSold2 = 3400
+let ticketPrice2 = 4
+let printingCosts2 = 45
+let advertising2 = 77
+// Total takings
+let totalTakings2 = ticketPrice * ticketsSold
+
+// Jackpot
+let jackpot2 = totalTakings / 2
+
+// Expenses
+let totalExpenses2 = printingCosts + advertising
+
+// Profit
+let profit2 = totalTakings - jackpot - totalExpenses
+
+// Distribution
+let programmersCut2 = profit / 10 // This is the answer you want to get over 100! 👉
+let friendsCut2 = profit - programmersCut

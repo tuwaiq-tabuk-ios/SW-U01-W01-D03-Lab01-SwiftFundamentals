@@ -9,6 +9,7 @@
 //: Swift will accept names like this without complaint. But imagine coming back to read that code after vacation. Would you remember what `nd` or `n1` meant? And if you gave the playground to other programmers, how would they figure out what those names were supposed to mean?
 //:
 //: - callout(Just for fun): In Swift, you can use emoji in names. This is not considered good naming practice, but it can be fun.  Below is the pet problem redone using emoji for names.
+//numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberofpotbellied + numberofish + numberosnake
 let 🐶 = 8
 let 🐱 = 4
 let 🐹 = 2
@@ -26,3 +27,14 @@ let totalNumberOfMammals = 🐶 + 🐱 + 🐹 + 🐷
 //: Next, learn the official names for the work you’ve been doing.
 //:
 //:[Previous](@previous)  |  page 7 of 14  |  [Next: Programmer Talk](@next)
+let numberOfDogs = 8
+let numberOfCats  = 4
+let umberOfHamsters = 2
+let numberOfTurtles = 3
+let numberosnake = 1
+let numberofpotbellied = 1
+let numberofish = 1
+
+let totalNumberOfAnimals2 = numberOfDogs + numberOfCats + umberOfHamsters +  numberOfTurtles + numberosnake + numberofpotbellied  + numberofish
+
+let totalNumberOfMammals2 = numberOfDogs + numberOfCats + umberOfHamsters + numberofpotbellied
