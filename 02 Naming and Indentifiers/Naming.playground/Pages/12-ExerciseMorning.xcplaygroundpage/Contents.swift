@@ -6,9 +6,26 @@
  - callout(Exercise): Create a constant for each activity you do in the morning before leaving home: things like `brushTeeth`, `uploadPhotos`, `chooseClothes`, `shower`, `goJogging`, `finishHomework`, `fixLunch`, and so on. Think about how many minutes each activity usually takes, and assign that value to each constant.
  */
 let brushTeeth = 3
-// Add more here...
+let uploadPhotos = 2
+let chooseClothes = 4
+let  shower = 10
+let goJogging = 10
+let finishHomework = 10
+let  fixLunch = 5
+let minutes = uploadPhotos + chooseClothes + shower + goJogging + finishHomework + fixLunch
+
 
 //: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
+let brushTeeth1 = 2
+let uploadPhotos2 = 2
+let chooseClothes3 = 12
+let  shower4 = 15
+let goJogging5 = 5
+let finishHomework6 = 5
+let  fixLunch7 = 6
+let Cooking = 30
+let Sports = 15
+let minutes1 = uploadPhotos + chooseClothes + shower + goJogging + finishHomework + fixLunch + Cooking + Sports
 
 
 
@@ -17,7 +34,9 @@ let brushTeeth = 3
 //:If there are things you don’t have to do and don't like to do, make a third group and go ahead and sum that one, too. \
 //:\
 //:Make a new constant for each group.
-
+let havetdo = uploadPhotos2 + Cooking + Sports
+let ilikedo =  shower + goJogging + finishHomework
+let nolike = Cooking
 
 
 /*:
@@ -26,6 +45,15 @@ let brushTeeth = 3
  Change the numbers until you’ve got a design for your ideal morning. What would have to change in order for you to be able to actually spend your morning time this way?
 */
 
+let uploadPhotos21 = 1
+let chooseClothes31 = 2
+let  shower41 = 10
+let goJogging51 = 3
+let finishHomework61 = 3
+let  fixLunch71 = 5
+let Cooking1 = 15
+let Sports1 = 10
+ let m = uploadPhotos21 + chooseClothes31 + shower41 + goJogging51 + finishHomework61 + fixLunch71 + Cooking1 + Sports1
 
 
 
