@@ -23,3 +23,21 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
 //: Next you’ll see a few more tricks with strings.
 //:
 //:[Previous](@previous)  |  page 9 of 16  |  [Next: The Great Escape](@next)
+// Add your version of the story below
+
+let name = "Ameera"
+
+let number = 100
+
+let adjective = "clothes"
+
+let theNameOfPlace = "park"
+
+let place = "mall"
+
+let positiveEmotion = "happy"
+
+let negativeEmotion = "upset"
+
+let fillInTheBlankGames = " Today was a big day for \(name). They had finally saved up \(number) dollars and were going to buy a \(adjective) . They went to the \(theNameOfPlace)\(place) feeling very \(positiveEmotion). But then they felt \(negativeEmotion). They were all out of \(theNameOfPlace)\(place)"
+

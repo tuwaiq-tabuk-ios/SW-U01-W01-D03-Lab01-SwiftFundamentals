@@ -14,8 +14,21 @@ let newline = "Making new lines"
  */
 
 
-
-
-
 //:
 //:[Previous](@previous)  |  page 13 of 16  |  [Next: Exercise: A Restaurant](@next)
+let myFavoritesinger = "Assala"
+
+let 🐄 = "cow"
+
+let studentFirstName = "Ameer"
+let studentLastName = "Alhawiti"
+let fullName = studentFirstName + " " + studentLastName
+
+let favoriteFruit = "Apple"
+let reason = "healthy"
+let myFavoriteFruit = "I like \(favoriteFruit) , because it is \(reason)."
+
+let myQustion = "Hi,\" Where are you from? \""
+
+
+let theweather = "it's sunny today.\nIdon't Know about tomorrow"
