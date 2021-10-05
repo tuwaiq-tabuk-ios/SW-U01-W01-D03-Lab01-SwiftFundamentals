@@ -15,6 +15,22 @@
  _Hint:_ Do all of your calculations in megabytes.
  */
 
+let iPhoneStoreageGB = 8
+
+let MegaBayte = 1000
+
+let iPhoneStoreageMB = iPhoneStoreageGB * MegaBayte
+
+let iPhoneStoreageHasGB = 3
+
+let iPhoneStoreageHasMB = iPhoneStoreageHasGB * MegaBayte
+
+let videoTakesMB = 150
+
+let MinutesHave = (iPhoneStoreageMB - iPhoneStoreageHasMB) / videoTakesMB
+
+let message = "You can \(MinutesHave) more minutes of video."
+
 
 
 

@@ -20,3 +20,14 @@
 //: Next, learn how programmers can leave notes in code.
 //:
 //:[Previous](@previous)  |  page 3 of 7  |  [Next: Comments](@next)
+
+
+40 + 10
+
+100 - 50
+
+100 / 2
+
+(10 + 20 + 30 + 40) / 2
+
+

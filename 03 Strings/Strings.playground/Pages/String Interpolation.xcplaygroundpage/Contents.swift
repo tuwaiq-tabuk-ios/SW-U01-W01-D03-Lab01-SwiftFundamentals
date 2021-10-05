@@ -25,3 +25,15 @@ let reason = "tasty"
 //: On the next page, see what happens with long strings.
 //:
 //:[Previous](@previous)  |  page 7 of 16  |  [Next: Viewing Playground Results](@next)
+
+// Change this to your favorite food
+let myFavoriteFood = "Burger"
+
+// Change this to why you like it
+let myReason = "delicious taste"
+
+// Define a string below in the pattern "I like ___ because it is ___."
+let messgaeString = "I like \(myFavoriteFood), because it is \(myReason)"
+
+
+

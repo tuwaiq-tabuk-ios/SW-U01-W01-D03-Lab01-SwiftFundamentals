@@ -27,9 +27,14 @@ func rowTheBoat() {
 
 */
 
+func myFirstFunction (){
+    let firstName = "Marzoog"
+    print("My name is \(firstName)")
+
+}
 
 
-
+myFirstFunction()
 
 
 

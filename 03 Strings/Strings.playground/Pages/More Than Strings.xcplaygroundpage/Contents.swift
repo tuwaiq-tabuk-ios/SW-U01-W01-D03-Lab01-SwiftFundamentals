@@ -16,6 +16,15 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
 */
 // Add your version of the story below
 
+let name = "my brothers"
+let number = 5
+let none = "ice cream"
+let placeName = "supermarket"
+let emotionPositive = "happy"
+let emotionNegative = "sad"
+
+let myStory = "Today was a big day for \(name). They had finally saved up \(number) dollars and were going to buy an \(none). They went to the \(placeName) feeling very \(emotionPositive). But then they felt \(emotionNegative). They were all out of \(none)!"
+
 
 
 //:
