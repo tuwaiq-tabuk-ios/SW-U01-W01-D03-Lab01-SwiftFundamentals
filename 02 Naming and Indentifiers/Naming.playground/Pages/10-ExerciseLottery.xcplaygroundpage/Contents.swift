@@ -24,10 +24,21 @@ let jackpot = totalTakings / 2
 let totalExpenses = printingCosts + advertising
 
 // Profit
-let profit = totalTakings - jackpot - totalExpenses
+let profit = jackpot - totalExpenses
 
 // Distribution
 let programmersCut = profit / 10 // This is the answer you want to get over 100! 👉 
 let friendsCut = profit - programmersCut
 
 //:[Previous](@previous)  |  page 11 of 14  |  [Next: Exercise: What Fits on Your iPhone?](@next)
+let totalTakings1 = 1 * 1000
+let jackpot1 = totalTakings1 / 2
+let totalExpenses1 = 20  + 50
+let profit1 = totalTakings1 - jackpot1 - totalExpenses1
+let programmersCut1 = profit1 / 10
+let friendsCut1 = profit1 - programmersCut1
+
+
+
+
+

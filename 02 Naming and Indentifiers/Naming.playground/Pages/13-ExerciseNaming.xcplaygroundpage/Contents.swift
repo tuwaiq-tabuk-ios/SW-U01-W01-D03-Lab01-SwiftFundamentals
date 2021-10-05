@@ -28,8 +28,6 @@ let rhso = co - lhso
 
 
 
-
-
 /*:
  
  _Copyright © 2017 Apple Inc._
@@ -41,3 +39,13 @@ let rhso = co - lhso
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //:[Previous](@previous)  |  page 14 of 14
+let oranges = 14
+let watermelons = 3
+let orangesWeigh = 100
+let watermelonsWeigh = 200
+let totalOrangesWeigh = oranges * orangesWeigh
+let totalWatermelonsWeigh = watermelons * watermelonsWeigh
+let  totalTotalleft = totalOrangesWeigh + totalWatermelonsWeigh
+let eachSide = totalTotalleft / 2
+let lefthaveSideOn = eachSide / orangesWeigh
+let righthaveSideOn = oranges - lefthaveSideOn

@@ -19,3 +19,13 @@ let newline = "Making new lines"
 
 //:
 //:[Previous](@previous)  |  page 13 of 16  |  [Next: Exercise: A Restaurant](@next)
+let listlearned = """
+ \n Unicode characters (😎)
+\n Combining strings using +
+\n String interpolation (aka Fill in the Blanks)
+\n Escape characters for \"special powers\"
+\n Making new lines
+"""
+print(listlearned)
+
+

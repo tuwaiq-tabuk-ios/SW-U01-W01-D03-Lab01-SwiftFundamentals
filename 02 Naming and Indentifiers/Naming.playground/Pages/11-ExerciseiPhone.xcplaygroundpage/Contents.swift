@@ -16,8 +16,8 @@
  _Hint_: Do all of your calculations in megabytes (MB).
 */
 
-
-
-
-
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+let totaliPhoneStorega = 8 * 1000
+let iPhoneStoregaUsed = 3 * 1000
+let oneMinutOfVideo = 150
+let minutsOfVideoToFilliPhone = ( totaliPhoneStorega - iPhoneStoregaUsed )/oneMinutOfVideo

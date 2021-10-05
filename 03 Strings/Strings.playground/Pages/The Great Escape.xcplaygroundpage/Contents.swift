@@ -18,3 +18,4 @@ let stringWithQuotationMarks = "He said, \"Hi there!\" as he passed by."
 //: Now take a look at more things you can do with the escape character.
 //:
 //:[Previous](@previous)  |  page 10 of 16  |  [Next: Escape Sequences](@next)
+let badString = "He said, \"Hi there!\"as he passed by."
