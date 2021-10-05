@@ -10,6 +10,7 @@
 3 * 100
 //: For division, use the slash `/` :
 24 / 8
+
 //: For grouping, use parenthesis `( )` :
 (300 + 500 + 400) / 3
 //: - experiment:\
@@ -20,3 +21,9 @@
 //: Next, learn how programmers can leave notes in code.
 //:
 //:[Previous](@previous)  |  page 3 of 7  |  [Next: Comments](@next)
+(200+100+10)/2
+12-6
+5+2
+10/2
+2*5
+

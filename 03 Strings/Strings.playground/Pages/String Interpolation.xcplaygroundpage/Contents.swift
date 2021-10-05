@@ -25,3 +25,11 @@ let reason = "tasty"
 //: On the next page, see what happens with long strings.
 //:
 //:[Previous](@previous)  |  page 7 of 16  |  [Next: Viewing Playground Results](@next)
+// Change this to your favorite food
+let favoriteFood1 = "pasta"
+
+// Change this to why you like it
+let reason1 = "tasty"
+
+// Define a string below in the pattern "I like _ because it is _."
+let favoritefood1 = " l like " + favoriteFood1 + "because it is " + reason1 + "."

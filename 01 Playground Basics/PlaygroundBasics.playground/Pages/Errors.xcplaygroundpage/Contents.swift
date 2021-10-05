@@ -3,7 +3,7 @@
 //: This playground page, for example, has an error in it.
 //:
 //: 👈 Notice the red error symbol to the left of the line below. This is how a playground tells you where a problem is.
-1000 / 0
+1000 / 6
 //: Since there is an error, the playground stops running your code.\
 //: Notice that there are no results displayed in the sidebar. 👉
 2 + 2
@@ -19,3 +19,4 @@
 //: Next, read all about your very recent past.
 //:
 //:[Previous](@previous)  |  page 6 of 7  |  [Next: Wrapup](@next)
+

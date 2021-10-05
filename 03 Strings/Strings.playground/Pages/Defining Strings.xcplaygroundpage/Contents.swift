@@ -16,3 +16,6 @@ let traditionalGreeting = "Hello, world!"
 //: Next, take a string-based trip around the world.
 //:
 //:[Previous](@previous)  |  page 3 of 16  |  [Next: Unicode](@next)
+let favoriteMovie = "Rocky"
+
+let favoriteSong = "Beethoven"

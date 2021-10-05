@@ -8,8 +8,7 @@
 //: A comment starts with two slashes `//` :
 // This is a comment; it does not affect the code
 34 + 56 + 230
-//: Because comments are ignored, no result is displayed in the results bar for that line of code.
-// 200 + 34 + 45
+
 //: - experiment:\
 //: Try _commenting out_ the calculation `34 + 56 + 230` by adding two slashes to the beginning of the calculation.\
 //:Try _uncommenting_ the calculation `200 + 34 + 45` by deleting the two slashes.\
@@ -19,3 +18,7 @@
 //: Take a deep breath and move on to the next page.
 //:
 //:[Previous](@previous)  |  page 4 of 7  |  [Next: When Things Go Wrong 😰](@next)
+//34 + 56 + 230
+200 + 34 + 45
+100 + 22 + 12 // add1 + add2 + add3
+
