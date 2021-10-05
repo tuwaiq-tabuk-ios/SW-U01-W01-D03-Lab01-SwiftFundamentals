@@ -34,3 +34,15 @@
 //:  Could there be a better way to solve this problem? Think about it for a minute or two, then move on.
 //:
 //:[Previous](@previous)  |  page 2 of 14  |  [Next: Pet Problem Recap](@next)
+// Number Of Hamsters
+1
+// Numbers Of Dogs
+6
+// Numbers Of Cats
+5
+// Numbers Of Turtles
+2
+// Total Number Of Animals
+1 + 6 + 5 + 2
+// Total Number Of Mammals
+1 + 6 + 5

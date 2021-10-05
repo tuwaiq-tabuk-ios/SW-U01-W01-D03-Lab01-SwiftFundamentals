@@ -27,7 +27,12 @@ rowTheBoat()
 merrilyDream()
 breatheBetweenVerses()
 rowTheBoat()
+crocodileScream()
 //: - callout(Exercise): Write a function called `crocodileScream()` for the second two lines of the second verse, and call it to complete the song in the console.
+func crocodileScream() {
+    print("lullaby, lullaby, lullaby")
+    print("sing her to sleep")
+}
 
 
 

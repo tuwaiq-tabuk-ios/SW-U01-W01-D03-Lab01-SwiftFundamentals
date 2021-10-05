@@ -14,6 +14,13 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let iPhoneStorageInMegaBytes = 8 * 1000
+let iPhoneStorageUsedInMegaBytes = 3 * 1000
+let oneMinutVideoUsedInMegaBytes = 150
+
+let minutsToFillThePhone = (iPhoneStorageInMegaBytes - iPhoneStorageUsedInMegaBytes) / oneMinutVideoUsedInMegaBytes
+
+let message = "You can record \(minutsToFillThePhone) more minuts of video."
 
 
 

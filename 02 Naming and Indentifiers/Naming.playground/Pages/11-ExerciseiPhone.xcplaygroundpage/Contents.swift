@@ -15,6 +15,12 @@
  - callout(Exercise): How many minutes of video will it take to fill the phone?\
  _Hint_: Do all of your calculations in megabytes (MB).
 */
+let iPhoneStorageInMegaBytes = 8 * 1000
+let iPhoneStorageUsedInMegaBytes = 3 * 1000
+let oneMinutVideoUsedInMegaBytes = 150
+
+let minutsToFillThePhone = (iPhoneStorageInMegaBytes - iPhoneStorageUsedInMegaBytes) / oneMinutVideoUsedInMegaBytes
+
 
 
 
