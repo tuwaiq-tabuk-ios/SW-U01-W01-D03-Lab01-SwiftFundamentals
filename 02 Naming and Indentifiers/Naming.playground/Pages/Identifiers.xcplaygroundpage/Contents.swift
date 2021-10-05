@@ -27,3 +27,14 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: Next, learn about choosing names. 
 //:
 //:[Previous](@previous)  |  page 6 of 14  |  [Next: Choosing Good Names](@next)
+let numberOfDogs2 = 6 + 2
+
+let numberOfCats2 = 5 - 1
+
+let numberOfTurtles2 = 2 + 1
+
+let numberOfHamsters2 = 1 + 1
+
+let potbelliedpig = 1
+let fish = 1
+let snak=1 

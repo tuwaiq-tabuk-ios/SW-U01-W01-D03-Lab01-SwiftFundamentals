@@ -16,10 +16,17 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
 */
 // Add your version of the story below
 
-
-
 //:
 //:
 //: Next you’ll see a few more tricks with strings.
 //:
 //:[Previous](@previous)  |  page 9 of 16  |  [Next: The Great Escape](@next)
+// Add your version of the story below
+let name="Reeema"
+let number = 15
+let adjective = "Chocolate"
+let place = "supermarket"
+let positive="happy"
+let negative="sad"
+let noun="supermarket"
+let storyIs = "Today was a big day for \(name). They had finally saved up \(number) dollars and were going to buy a \(adjective) . They went to the \(place) feeling very \(positive) But then they felt \(negative). They were all out of \(noun)"

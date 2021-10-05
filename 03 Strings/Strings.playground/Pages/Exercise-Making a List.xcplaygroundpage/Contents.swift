@@ -13,7 +13,8 @@ let newline = "Making new lines"
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
 
-
+var result="Declaring string constants"+"Unicode characters (😎)"+"Combining strings using "+"String interpolation (aka Fill in the Blanks)"+"Escape characters for \"special powers\""+"Making new lines"
+print(result)
 
 
 

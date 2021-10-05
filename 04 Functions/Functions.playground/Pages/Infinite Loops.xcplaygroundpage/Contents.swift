@@ -32,3 +32,10 @@ verseOne()
  
  [Previous](@previous)  |  page 7 of 12  |  [Next: Hiding Complexity](@next)
 */
+let Number1=10
+
+if
+(Number1>10)
+{
+    print(Number1)
+}
