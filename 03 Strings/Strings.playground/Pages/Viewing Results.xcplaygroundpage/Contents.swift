@@ -16,3 +16,6 @@ let aliceQuotation = "Why, sometimes I’ve believed as many as \(spelledOutNumb
 //: On the next page, take these strings even further.
 //:
 //:[Previous](@previous)  |  page 8 of 16  |  [Next: More Than Strings](@next)
+let spelledOutNumber2 = "ten"
+let meal2 = "lunch"
+let aliceQuotation2 = "Why, sometimes I’ve believed as many as \(spelledOutNumber2) impossible things before \(meal2)!"

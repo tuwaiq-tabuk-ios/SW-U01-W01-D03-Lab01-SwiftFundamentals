@@ -28,9 +28,11 @@ let customerOrderSix = "小笼包"
  */
 let serverResponseToTableTwo = "Let me make sure I've got this right: <Enter the Order Here>"
 
-let tableTwoResponse = "Perfect, merci bien."
+let tableTwoResponse = "완벽합니다, 감사합니다"
 
 
 
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let serverResponseToTableTwo2 = " Let me make sure I've got this right: \( customerOrderFour + " , " + customerOrderFive  + " and " +  customerOrderSix) "
+let tableTwoResponse2 = "Perfect, merci bien."

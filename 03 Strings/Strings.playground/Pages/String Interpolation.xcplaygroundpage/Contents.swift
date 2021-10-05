@@ -25,3 +25,8 @@ let reason = "tasty"
 //: On the next page, see what happens with long strings.
 //:
 //:[Previous](@previous)  |  page 7 of 16  |  [Next: Viewing Playground Results](@next)
+let FavoriteFood2 = "Pie"
+let Reason2 = "tasty"
+
+let IlikeFoodBecause = "Ilike \(FavoriteFood2), bacuase it is \(Reason2)"
+

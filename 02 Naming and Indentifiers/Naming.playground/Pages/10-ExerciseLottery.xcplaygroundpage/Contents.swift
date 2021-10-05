@@ -14,14 +14,19 @@ let advertising = 50
 
  The calculations below are fixed, but you can change the results by changing the numbers above:
 */
+let ticketsSold2 = 2500
+let ticketPrice2 = 1
+let printingCosts2 = 60
+let advertising2 = 40
+
 // Total takings
-let totalTakings = ticketPrice * ticketsSold
+let totalTakings = ticketPrice2 * ticketsSold2
 
 // Jackpot
 let jackpot = totalTakings / 2
 
 // Expenses
-let totalExpenses = printingCosts + advertising
+let totalExpenses = printingCosts2 + advertising2
 
 // Profit
 let profit = totalTakings - jackpot - totalExpenses

@@ -12,6 +12,26 @@ let newline = "Making new lines"
 /*:
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
+let NamePark = "Qween Park"
+
+let Cat = "🐱"
+
+let fristName = "Ahmad"
+let LastName = "Hamd"
+let FullName = fristName + LastName
+
+
+let personName = "Sara"
+let FoodType = "Fries"
+let welcomeString = "In the evening , " + personName + " eats" + FoodType + "!"
+
+
+let escaping2 = "Khalid said, \" Good Luck ? \""
+
+let newlinesOFnames = "Mohammed"
+"Ahmad"
+
+
 
 
 
