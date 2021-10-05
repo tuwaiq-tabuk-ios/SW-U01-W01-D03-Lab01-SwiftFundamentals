@@ -9,3 +9,7 @@
 //: Practice what you've learned so far with some additional exercises.
 //:
 //:[Previous](@previous)  |  page 12 of 16  |  [Next: Exercise: Making a List](@next)
+let StudentName = "Mohammed"
+let ClassName = "Music"
+
+let welcomeString = "hi \(StudentName), welcome to \(ClassName)"

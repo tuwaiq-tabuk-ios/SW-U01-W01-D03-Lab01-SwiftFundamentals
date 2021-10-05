@@ -14,8 +14,11 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
-
-
+let IphoneStorageInmegabites = 8 * 1000
+let IphoneStorageUsedInmegabites = 3 * 1000
+let OneMinuteOfVideoTakes = 150
+let MinuteOfVideo = ( 8000 - 3000 ) / 150
+let StorageOFiphone = " you can record  \(MinuteOfVideo)  more minutes of video "
 
 
 

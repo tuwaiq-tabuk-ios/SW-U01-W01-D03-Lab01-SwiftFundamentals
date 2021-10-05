@@ -26,3 +26,6 @@ let totalNumberOfMammals = 🐶 + 🐱 + 🐹 + 🐷
 //: Next, learn the official names for the work you’ve been doing.
 //:
 //:[Previous](@previous)  |  page 7 of 14  |  [Next: Programmer Talk](@next)
+let 🕷 = 1
+let totalNumberOfAnimals2 = 🐶 + 🐱 + 🐹 + 🐢 + 🐍 + 🐷 + 🐟 + 🕷
+
