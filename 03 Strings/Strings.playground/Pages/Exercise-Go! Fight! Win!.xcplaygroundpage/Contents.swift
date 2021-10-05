@@ -26,3 +26,8 @@ let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
 
 //:
 //:[Previous](@previous)  |  page 15 of 16 |  [Next: Exercise: Displaying Values](@next)
+let schoolName1 = "al ASR school"
+let clip = "laa laa HMMM la-laa\(schoolName1) laa laa HMMMMM"
+
+let song1 = "\(clip)\n\(clip)\nYes, \(clip)"
+
