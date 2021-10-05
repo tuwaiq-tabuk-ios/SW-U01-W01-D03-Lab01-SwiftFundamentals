@@ -10,9 +10,16 @@ let traditionalGreeting = "Hello, world!"
 // Declare a favoriteMovie constant
 
 
+
 // Declare a favoriteSong constant
 
 
 //: Next, take a string-based trip around the world.
 //:
 //:[Previous](@previous)  |  page 3 of 16  |  [Next: Unicode](@next)
+// Declare a favoriteMovie constant
+let FavoritMovie = "Hi "
+
+
+// Declare a favoriteSong constant
+let FavoritSong = "helloworld"

@@ -14,7 +14,16 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let sizeGB = 8
+let sizeMB = 1000
+let usedSize = 3
+let totalSizeInMB = sizeGB*sizeMB
+let usedSizeInMB = usedSize*sizeMB
+let oneMin = 150
+let totalSizeLeft = totalSizeInMB - usedSizeInMB
+let minutes = totalSizeLeft/oneMin
 
+print("You can record \(minutes )more minutes of video.")
 
 
 

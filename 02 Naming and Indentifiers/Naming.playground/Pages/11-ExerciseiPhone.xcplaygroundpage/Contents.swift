@@ -15,6 +15,14 @@
  - callout(Exercise): How many minutes of video will it take to fill the phone?\
  _Hint_: Do all of your calculations in megabytes (MB).
 */
+let sizeGB = 8
+let sizeMB = 1000
+let usedSize = 3
+let totalSizeInMB = sizeGB*sizeMB
+let usedSizeInMB = usedSize*sizeMB
+let oneMin = 150
+let totalSizeLeft = totalSizeInMB - usedSizeInMB
+let minutes = totalSizeLeft/oneMin
 
 
 
