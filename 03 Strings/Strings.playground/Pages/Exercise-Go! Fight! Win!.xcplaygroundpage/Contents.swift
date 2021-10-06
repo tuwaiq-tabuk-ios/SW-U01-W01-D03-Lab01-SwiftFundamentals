@@ -16,7 +16,6 @@
  Use the show result button to view the results of your work.
  */
 
-
 let schoolName = "YOUR SCHOOL NAME"
 let refrain = "hmm hmm HMMM hm-hmm \(schoolName) hmm hmm HMMMMM"
 
@@ -24,5 +23,11 @@ let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
 
 
 
+
+
 //:
 //:[Previous](@previous)  |  page 15 of 16 |  [Next: Exercise: Displaying Values](@next)
+let SchoolName = "TABUK SCHOOL"
+let refrain0 = "imm immm mmma oomm \(schoolName) immm hmm"
+
+let Song = "\(refrain0)\n\(refrain0)\nYes, \(refrain0)"

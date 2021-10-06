@@ -28,3 +28,21 @@
 //: Next you’ll find out how to do that.
 //:
 //:[Previous](@previous)  |  page 3 of 14  |  [Next: Naming Things](@next)
+
+// Number Of Dogs
+6
+
+// Number Of Cats
+5
+
+// Number Of Turtles
+2
+
+// Number Of Hamsters
+1
+
+// Total Number Of Animals
+6 + 5 + 2 + 1
+
+// Total Number Of Mammals
+6 + 5 + 1
