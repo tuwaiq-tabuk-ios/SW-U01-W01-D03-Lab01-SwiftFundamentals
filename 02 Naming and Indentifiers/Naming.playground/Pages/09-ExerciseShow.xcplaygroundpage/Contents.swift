@@ -26,3 +26,23 @@ let numberOfTickets = 150
 
 //:
 //:[Previous](@previous)  |  page 10 of 14  |  [Next: Exercise: Lottery Tickets](@next)
+// Number Of Tickets
+150
+
+// Ticket Price
+10
+
+// Room Rental Fee
+50
+
+// Poster Cost
+40
+
+// Total Ticket Value
+150 * 10
+
+// Total Expenses
+50 + 40
+
+// Total Income Of Show
+(150 * 10) - (50 + 40)

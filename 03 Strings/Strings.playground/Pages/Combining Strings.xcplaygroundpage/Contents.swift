@@ -21,17 +21,21 @@ let finishedMessage = username + " " + likesYourPostMessage
 //:Combine your `firstName` and `likesYourPostMessage`\
 //:Type each line of code below the relevant comment below.
 // Declare a firstName constant
-
+let FirstName = "Atheer"
 
 // Declare a lastName constant
-
+let lastName = "Alatawi"
 
 // Combine the strings into a fullName constant
+let FullName = FirstName + lastName
 
+// Declare a likesYourPostMessage
+let LikesYourPostMessage = "hello"
 
 // Combine your first name with likesYourPostMessage
+let LikesYourPostMessage2 = FirstName + LikesYourPostMessage
 
-
+ 
 //: Next, find out how building strings by adding them can get complicated.
 //:
 //:[Previous](@previous)  |  page 5 of 16  |  [Next: Fill In The Blanks](@next)

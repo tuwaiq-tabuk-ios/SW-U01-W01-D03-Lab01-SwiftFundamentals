@@ -7,8 +7,19 @@
  */
 let brushTeeth = 3
 // Add more here...
+let UpLoadPhotos = 2
+let ChooseClothes = 1
+let Shower = 5
+let GoJogging = 6
+let FinishHomework = 10
+let FixLunch = 4
 
 //: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
+//TotalTimeOfActivities
+(3 + 2 + 1 + 5 + 6 + 10 + 4) =
+
+
+
 
 
 

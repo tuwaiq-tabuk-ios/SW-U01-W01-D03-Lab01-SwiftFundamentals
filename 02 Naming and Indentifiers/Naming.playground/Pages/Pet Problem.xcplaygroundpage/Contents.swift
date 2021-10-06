@@ -34,3 +34,12 @@
 //:  Could there be a better way to solve this problem? Think about it for a minute or two, then move on.
 //:
 //:[Previous](@previous)  |  page 2 of 14  |  [Next: Pet Problem Recap](@next)
+
+
+//Number Of Dogs from 6
+//Total Number Of Mammals
+// Total Number Of Animals
+6 + 4
+// Total Number Of Mammals
+6 + 3
+
