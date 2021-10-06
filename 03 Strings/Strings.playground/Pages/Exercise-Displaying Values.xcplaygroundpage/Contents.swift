@@ -26,7 +26,7 @@ let iPhoneStorageUsedMB = iPhoneStorageUsedGB * MegaByte
 
 let videoTakesMB = 150
 
-let MinutesHave = (iPhoneStorageMB - iPhoneStorageMB) / videoTakesMB
+let MinutesHave = (iPhoneStorageMB - iPhoneStorageUsedMB) / videoTakesMB
 
 let message = "You can record \(MinutesHave) more minutes of video."
 
