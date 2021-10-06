@@ -16,6 +16,11 @@
  _Hint_: Do all of your calculations in megabytes (MB).
 */
 
+let iPhoneStorageInMegaBites = 8 * 1000
+let iPhoneStorageUsedInMegaBites = 3 * 1000
+let OneMinuteOfVideoUsedInMegaBites = 150
+
+let minutesToFillThePhone = (iPhoneStorageInMegaBites - iPhoneStorageUsedInMegaBites) / OneMinuteOfVideoUsedInMegaBites
 
 
 

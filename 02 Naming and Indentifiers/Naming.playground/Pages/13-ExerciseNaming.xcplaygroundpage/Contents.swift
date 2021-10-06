@@ -24,7 +24,16 @@ let rhso = co - lhso
 
 
 //: - experiment: Rewrite the code so that it makes sense without needing a note. Use meaningful names and comments.
-
+let countOrange = 14
+let countWatermelons = 3
+let orangeWeigh = 100
+let watermelonsWeigh = 200
+let truckOrange = countOrange * orangeWeigh
+let truckWatermelons = countWatermelons * watermelonsWeigh
+let trucktotal = truckOrange + truckWatermelons
+let eachSide = trucktotal / 2
+let leftHandSide = eachSide / orangeWeigh
+let rightHandSide = countOrange - leftHandSide
 
 
 
