@@ -14,8 +14,14 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
-
-
+let IphoneStorageGB = 8
+let MegaBayate = 1000
+let IphoneStoregMB = IphoneStorageGB * MegaBayate
+let IphoneStoregeHasGB = 3
+let IphoneStoregeHasMB = IphoneStorageGB * MegaBayate
+let VideoTakesMB = 150
+let MinutesHave = (IphoneStoregMB - IphoneStoregeHasMB) / VideoTakesMB
+let Message = "Yuo Can \(MinutesHave) more minutes of video. "
 
 
 

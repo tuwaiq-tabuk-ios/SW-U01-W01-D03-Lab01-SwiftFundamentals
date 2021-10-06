@@ -16,8 +16,14 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
 */
 // Add your version of the story below
 
+let name = "my Brrothers"
+let Number = 6
+let None = "meat"
+let PlaceNeme = "school"
+let EmotionPpositive = "Wakes Up"
+let EmotionNegative = "Sleeping"
 
-
+let MyStory = "Today was a frst day for \(name) . And tehe ar their \(Number) Thwy Ffound breakfast but they dontlike it \(None) its fnish it go to \(PlaceNeme) bat \(EmotionPpositive) in the Morning Because they dont \(EmotionNegative) early "
 //:
 //:
 //: Next you’ll see a few more tricks with strings.

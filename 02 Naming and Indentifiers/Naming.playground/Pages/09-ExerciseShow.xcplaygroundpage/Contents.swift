@@ -23,6 +23,18 @@
 //: - callout(Exercise): Using the code above as a reference, use let statements to define constants to better solve your friend’s problem.\
 //:Add your code below. To help you get started, the constant `numberOfTickets` is already defined. 
 let numberOfTickets = 150
-
+let TicketPrice = 10
+let RoomRentalFee = 1000
+let PosterCost = 40
+let TotalTicketValue = 150 * 10
+let TotalExpenses = 1000 * 40
+let TotalIncomeOfShow = (150 * 10 ) - (1000 + 40)
 //:
 //:[Previous](@previous)  |  page 10 of 14  |  [Next: Exercise: Lottery Tickets](@next)
+let TumberOfTickets2 = 150
+let TicketPrice2 = 10
+let RoomRentalFee2 = 1000
+let PosterCost2 = 40
+let TotalTicketValue2 = TumberOfTickets2 * TicketPrice2
+let TotalExpenses2 = TicketPrice2 * PosterCost2
+let TotalIncomeOfShow2 = (TumberOfTickets2 * TicketPrice2 ) - (RoomRentalFee2 + PosterCost2)
