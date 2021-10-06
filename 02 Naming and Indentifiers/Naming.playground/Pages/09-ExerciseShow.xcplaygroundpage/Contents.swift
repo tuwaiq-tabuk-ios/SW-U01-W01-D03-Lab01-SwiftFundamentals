@@ -26,3 +26,13 @@ let numberOfTickets = 150
 
 //:
 //:[Previous](@previous)  |  page 10 of 14  |  [Next: Exercise: Lottery Tickets](@next)
+let numberOfTickets1 = 150
+let numberOfPrice1 = 10
+let numberOfRoomRental1 = 1000
+let numberOfPosterCost1 = 40
+
+let numberOfTotalTicket = 150 * 10
+
+let numberOfTotalExpense = 1000 + 40
+
+let numberOfTotalIncomeOfShow = (150 * 10) - (1000 + 40)

@@ -34,3 +34,29 @@ let tableTwoResponse = "Perfect, merci bien."
 
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let ServerResponseToTableOne = "Let me make sure I've got this right: \(customerOrderOne).Is that everything?"
+
+let tableTwoResponseOne = "Perfect, Thanks."
+
+let serverResponseToTableTow = "Let me make sure I've got this right: \(customerOrderTwo).Is that everything?"
+
+let tableTwoResponseTow = "thanks."
+
+let serverResponseToTableThree = "Let me make sure I've got this right: \(customerOrderThree).Is that everything?"
+
+let tableTwoResponseThree = "Perfect, merci bien."
+
+let serverResponseToTableFour = "Let me make sure I've got this right: \(customerOrderFour).Is that everything?"
+
+let tableTwoResponseFour = "Perfect."
+
+let serverResponseToTableFive = "Let me make sure I've got this right: \(customerOrderFive).Is that everything?"
+
+let tableTwoResponseFive = "Perfect, merci bien."
+
+let serverResponseToTableSix = "Let me make sure I've got this right: \(customerOrderSix).Is that everything?"
+
+let tableTwoResponseSix = "thanks."
+
+
+

@@ -14,6 +14,11 @@ let advertising = 50
 
  The calculations below are fixed, but you can change the results by changing the numbers above:
 */
+let ticketsSold1 = 2100
+let ticketPrice2 = 1
+let printingCosts3 = 60
+let advertising4 = 40
+
 // Total takings
 let totalTakings = ticketPrice * ticketsSold
 
@@ -31,3 +36,4 @@ let programmersCut = profit / 10 // This is the answer you want to get over 100!
 let friendsCut = profit - programmersCut
 
 //:[Previous](@previous)  |  page 11 of 14  |  [Next: Exercise: What Fits on Your iPhone?](@next)
+
