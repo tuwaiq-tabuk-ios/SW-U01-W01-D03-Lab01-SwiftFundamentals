@@ -23,7 +23,11 @@ let lhso = es / ow
 let rhso = co - lhso
 
 
-//: - experiment: Rewrite the code so that it makes sense without needing a note. Use meaningful names and comments.
+
+
+
+
+
 
 
 
@@ -41,3 +45,13 @@ let rhso = co - lhso
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //:[Previous](@previous)  |  page 14 of 14
+let count0range = 14
+let countWatermelons = 3
+let orangeWeigh = 100
+let watermelonsWeigh = 200
+let truck0range = count0range * orangeWeigh
+ let truckWatermelons = countWatermelons * watermelonsWeigh
+ let trucktotal = truck0range + truckWatermelons
+let eachSide =  trucktotal / 2
+ let leftHandSide = eachSide / orangeWeigh
+let rightHandSide = count0range - leftHandSide

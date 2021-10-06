@@ -4,6 +4,8 @@
 //: Names for constants start with a lowercase letter. As in the examples below, they can include a few words, all run together. That’s because Swift will think each word is a different identifier if there’s a space in between.
 //:
 //:To make it easier to read identifiers with multiple words, every word after the first word should be capitalized. This way of writing out names is called _camel case_, because the capital letters in the middle of the name look a bit like the humps of a camel. 🐫
+
+import Darwin
 let numberOfDogs = 6 + 2
 
 let numberOfCats = 5 - 1
@@ -27,3 +29,22 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: Next, learn about choosing names. 
 //:
 //:[Previous](@previous)  |  page 6 of 14  |  [Next: Choosing Good Names](@next)
+
+
+
+let numberfish = 1
+let numbersnacke = 1
+let numberpotbellied = 1
+
+let numberOfDogs1 = 6 + 2
+
+let numberOfCats1 = 5 - 1
+
+let numberOfTurtles1 = 2 + 1
+
+let numberOfHamsters1 = 1 + 1
+
+let totalNumberOfAnimals1 = numberOfDogs1 + numberOfCats1 + numberOfTurtles1 + numberOfHamsters1 +  numberfish + numbersnacke + numberpotbellied
+
+let totalNumberOfMammals1 = numberOfDogs1 + numberOfCats1 + numberOfHamsters1 + numberpotbellied
+

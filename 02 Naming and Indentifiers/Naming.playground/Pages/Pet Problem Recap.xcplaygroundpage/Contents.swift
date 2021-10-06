@@ -28,3 +28,6 @@
 //: Next you’ll find out how to do that.
 //:
 //:[Previous](@previous)  |  page 3 of 14  |  [Next: Naming Things](@next)
+9*8
+7+7
+
