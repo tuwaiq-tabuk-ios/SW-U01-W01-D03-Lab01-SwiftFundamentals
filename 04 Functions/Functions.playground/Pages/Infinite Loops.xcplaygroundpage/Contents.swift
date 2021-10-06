@@ -32,3 +32,9 @@ verseOne()
  
  [Previous](@previous)  |  page 7 of 12  |  [Next: Hiding Complexity](@next)
 */
+let count = 0
+while (count > -1 ){
+    verseOne()
+    merrilyDream()
+  
+}

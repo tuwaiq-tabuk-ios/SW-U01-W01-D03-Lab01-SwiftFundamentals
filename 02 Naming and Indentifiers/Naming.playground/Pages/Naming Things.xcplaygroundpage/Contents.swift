@@ -35,3 +35,9 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: Once you’re finished experimenting, move ahead.
 //:
 //:[Previous](@previous)  |  page 4 of 14  |  [Next: Typing Names and Autocompletion](@next)
+let numofCats = 4
+let numofDogs = 8
+let numofHamster = 2
+let numofTurt = 3
+let Total = numofHamster+numofCats+numofDogs+numofTurt
+let totalofMam = numofDogs+numofCats+numofHamster

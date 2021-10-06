@@ -5,6 +5,28 @@
  
  Inside one of the functions, make changes that make the whole text mean something different, or make it funnier. You could change a name to your name or a friend’s, change a word to something else that rhymes, or just play around.
 */
+func chours(){
+    print("la la la la ")
+}
+func song(){
+    print("older Jhonny wants to cry")
+}
+func repeatedLines(){
+    print("Rain rain do not go away! ")
+    print("please Come again in this day")
+}
+func versOne(){
+    chours()
+    song()
+}
+func versTwo(){
+    repeatedLines()
+    chours()
+}
+
+versTwo()
+versOne()
+repeatedLines()
 
 
 
