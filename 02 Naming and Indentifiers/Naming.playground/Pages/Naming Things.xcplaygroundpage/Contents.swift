@@ -12,7 +12,7 @@ let numberOfCats = 5
 
 let numberOfTurtles = 2
 
-let numberOfHamsters = 1
+let numberOfHamsters = 1 
 
 //: After you’ve defined a constant and assigned a value to it, you can use the constant wherever you would have used the value, including in mathematical calculations that define the value of a new constant:
 
@@ -35,3 +35,11 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: Once you’re finished experimenting, move ahead.
 //:
 //:[Previous](@previous)  |  page 4 of 14  |  [Next: Typing Names and Autocompletion](@next)
+
+let numberOfDogs2 = 6
+
+let numberOfCats2 = 5
+
+let numberOfTurtles2 = 2
+
+let numberOfHamsters2 = 1

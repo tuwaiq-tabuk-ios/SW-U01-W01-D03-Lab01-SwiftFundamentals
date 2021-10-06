@@ -21,3 +21,9 @@
 
 
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+let iphoneStorageInMegaBites = 8 * 1000 //IphoneStorage is 8GB
+let iphoneStorageUsedInMegaBites = 3 * 1000
+let OneMinutVeideoUsedInMegabytes = 150
+
+let minutsToFillThePhone = (iphoneStorageInMegaBites - iphoneStorageUsedInMegaBites) / OneMinutVeideoUsedInMegabytes
+

@@ -30,7 +30,10 @@ let serverResponseToTableTwo = "Let me make sure I've got this right: <Enter the
 
 let tableTwoResponse = "Perfect, merci bien."
 
-
-
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+let serverResponseToTableThree = "Let me make sure I've got this right : <魚, 燴飯,湯>"
+
+
+
+let tableThreeResponse =  "是的，謝謝！ "
