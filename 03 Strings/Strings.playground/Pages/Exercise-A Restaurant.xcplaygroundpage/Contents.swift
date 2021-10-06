@@ -26,9 +26,9 @@ let customerOrderSix = "小笼包"
 - callout(Exercise):
  Make sure the server repeats the order correctly *without* copying and pasting or retyping any of the orders.
  */
-let serverResponseToTableTwo = "Let me make sure I've got this right: <Enter the Order Here>"
+let serverResponseToTableTwo = "Let me make sure I've got this right: <돌솥비빔밥,Pasztecik szczecińskiand 小笼包>"
 
-let tableTwoResponse = "Perfect, merci bien."
+let tableTwoResponse = "돌솥비빔밥"
 
 
 

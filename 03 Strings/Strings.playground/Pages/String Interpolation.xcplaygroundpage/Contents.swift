@@ -21,7 +21,9 @@ let reason = "tasty"
 
 // Define a string below in the pattern "I like ___ because it is ___."
 
-
+let FavoriteFood = "orange"
+let Reason = "healthy"
+let WelcomeString = "i like \(FavoriteFood), because \(Reason)"
 //: On the next page, see what happens with long strings.
 //:
 //:[Previous](@previous)  |  page 7 of 16  |  [Next: Viewing Playground Results](@next)

@@ -6,10 +6,14 @@
  - callout(Exercise): Create a constant for each activity you do in the morning before leaving home: things like `brushTeeth`, `uploadPhotos`, `chooseClothes`, `shower`, `goJogging`, `finishHomework`, `fixLunch`, and so on. Think about how many minutes each activity usually takes, and assign that value to each constant.
  */
 let brushTeeth = 3
-// Add more here...
-
+let uploadphotos = 2
+let chooseClothes = 10
+let  gitshower = 60
+let goJogging = 30
+let finishHomework = 60
+let fixLunch = 60
 //: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
-
+let TotaltimeOfallTheActivities = brushTeeth + uploadphotos + chooseClothes + gitshower + goJogging + finishHomework + fixLunch
 
 
 //: - callout(Exercise): Add up the constants again, but this time in separate groups: one group for things you have to do and another group for things you like to do.\
@@ -17,8 +21,9 @@ let brushTeeth = 3
 //:If there are things you don’t have to do and don't like to do, make a third group and go ahead and sum that one, too. \
 //:\
 //:Make a new constant for each group.
-
-
+let GroubOflikeToDo = goJogging + gitshower + chooseClothes
+let GroubOfdontlikeToDo = finishHomework + fixLunch
+let  GroubOfToDoAndDontLikeToDo = fixLunch + finishHomework + brushTeeth + goJogging 
 
 /*:
  See what happens to your total time spent getting ready if you tweak the durations of the different activities. How short of a shower would you have to take in order to have more time to message your friends? Or go for a longer run? How much more time would you need if you decided to spend as long as you wanted doing all the activities you like best?

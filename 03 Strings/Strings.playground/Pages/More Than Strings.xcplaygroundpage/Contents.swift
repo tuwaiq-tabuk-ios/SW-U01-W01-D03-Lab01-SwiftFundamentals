@@ -16,10 +16,16 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
 */
 // Add your version of the story below
 
+let Name = "Maha"
+let number = 100
+let noun = "chocolate "
+let adjective = "tasty "
+let place = "France"
+let noun2 = "DisneyLand"
+let positiveemotion = "happy"
+let negativeemotion = "sad"
 
 
-//:
-//:
-//: Next you’ll see a few more tricks with strings.
-//:
-//:[Previous](@previous)  |  page 9 of 16  |  [Next: The Great Escape](@next)
+let Samplestory = "Today was a big day for \(Name) They had finally saved up \(number) dollars and were going to buy a , \(adjective + noun) . They went to the \(noun2 + place) feeling very \(positiveemotion) But then they felt  \(negativeemotion). They were all out of \(noun2)!"
+
+

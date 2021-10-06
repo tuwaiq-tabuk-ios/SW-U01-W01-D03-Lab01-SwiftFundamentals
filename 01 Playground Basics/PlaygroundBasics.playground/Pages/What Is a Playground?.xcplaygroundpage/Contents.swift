@@ -27,6 +27,9 @@ Next, find out how to put the results sidebar to better use.
  
  [Previous](@previous)  |  page 2 of 7  |  [Next: Calculations](@next)
 */
-
-
-
+3
+9
+678
+44
+-333
+987
