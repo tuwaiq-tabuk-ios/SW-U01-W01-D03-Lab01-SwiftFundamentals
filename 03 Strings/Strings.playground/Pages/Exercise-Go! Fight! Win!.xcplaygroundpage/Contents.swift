@@ -19,10 +19,13 @@
 
 let schoolName = "YOUR SCHOOL NAME"
 let refrain = "hmm hmm HMMM hm-hmm \(schoolName) hmm hmm HMMMMM"
-
 let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
 
 
 
 //:
 //:[Previous](@previous)  |  page 15 of 16 |  [Next: Exercise: Displaying Values](@next)
+let schoolName2 = "ABDULAZIZ SCHOOL NAME"
+let refrain2 = "La la LAAA la-aaaa \(schoolName2) la laa laa LAAAA"
+
+let song2 = "\(refrain)\n\(refrain)\nYes, \(refrain)"
