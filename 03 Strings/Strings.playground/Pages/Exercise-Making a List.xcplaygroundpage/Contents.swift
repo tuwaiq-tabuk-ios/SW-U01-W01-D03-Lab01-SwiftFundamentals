@@ -12,8 +12,11 @@ let newline = "Making new lines"
 /*:
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
-
-
+let Characters = "The strings contain more than just letters , There are punctuation marks, numbers, symbols, even spaces.  "
+let DefiningStrings = " how to Defining Strings "
+let StringInterpolation = " how to define a string with placeholders that will be replaced with values"
+let MoreThanStrings = "can substitute in other values too, like numbers or even calculations."
+let TheGreatEscape = " To include a quotation mark in a string, type a backslash before the quotation mark"
 
 
 
