@@ -1,4 +1,4 @@
-/*: 
+/*:
  ## Exercise: What Fits on Your iPhone?
  
  In this exercise you’re going to work on figuring out the answer to the timeless question: How much stuff can I fit on my iPhone?
@@ -19,5 +19,10 @@
 
 
 
-
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+
+let iphoneStrageInMegaBetes = 8 * 1000 //Iphone storage is 8GB
+let iphoneStrageUsedInMegabytes = 3 * 1000
+let oenMiuntVeideoUsedInMegabytes = 150
+
+let minutsToFillThePhone = ( iphoneStrageInMegaBetes - iphoneStrageUsedInMegabytes) / oenMiuntVeideoUsedInMegabytes

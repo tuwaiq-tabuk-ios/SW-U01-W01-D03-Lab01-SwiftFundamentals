@@ -12,7 +12,12 @@ let newline = "Making new lines"
 /*:
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
-
+let constants1 = "write the strings between quotation mark"
+let unicode1 = "Unicode characters (😀)"
+let combining1 = "Combining strings using +"
+let interpolation1 = "to add space between words use quotation mark with pluse"
+let escaping1 = "Escape characters for \"special powers\""
+let newline1 = "Making new lines"
 
 
 
