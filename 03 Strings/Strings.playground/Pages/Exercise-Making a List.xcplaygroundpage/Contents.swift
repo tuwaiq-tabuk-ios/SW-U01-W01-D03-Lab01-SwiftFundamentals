@@ -19,3 +19,11 @@ let newline = "Making new lines"
 
 //:
 //:[Previous](@previous)  |  page 13 of 16  |  [Next: Exercise: A Restaurant](@next)
+let thingsyouvelearned = """
+\(constants) = " Declaring string constants "
+\(unicode) = " Unicode characters (😎) "
+\(combining) = "Combining strings using + "
+\(interpolation) = "String interpolation (aka Fill in the Blanks)"
+\(escaping) = "Escape characters for \"special powers\""
+\(newline) = "Making new lines"
+"""

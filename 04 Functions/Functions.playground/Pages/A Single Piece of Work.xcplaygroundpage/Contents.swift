@@ -26,11 +26,12 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
-
-
-
-
-
+func worke () {
+print (" nume of employees" )
+ print ( " age of employees")
+   print ( "Mohammed,ahmed, saeed,fahad")
+print ("20,30,35,45")
+}
 
 
 //: Next, learn about how to think about tasks and divide them up in a way that makes sense.

@@ -19,3 +19,6 @@
 //: Next, read all about your very recent past.
 //:
 //:[Previous](@previous)  |  page 6 of 7  |  [Next: Wrapup](@next)
+1000 / 6
+//: Since there is an error, the playground stops running your code.\
+//: Notice that there are no results displayed in the sidebar. 👉
