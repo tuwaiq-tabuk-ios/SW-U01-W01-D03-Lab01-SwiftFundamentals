@@ -14,6 +14,16 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let storage = 8
+let PhoneStorageUsed = 3
+let OneMinute = 150
+
+let storageConvert = storage * 1000 //convert from GB to MB
+let PhoneStorageUsedConvert = PhoneStorageUsed * 1000 //convert from GB to MB
+let freeStorage = storageConvert - PhoneStorageUsedConvert
+let MinutesOfVideo = OneMinute * freeStorage
+
+let Srecord = "You can record \(MinutesOfVideo) more minutes of video."
 
 
 

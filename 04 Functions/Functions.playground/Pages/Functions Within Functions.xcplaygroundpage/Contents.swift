@@ -30,6 +30,7 @@ verseOne()
 */
 func laughingSubmarine() {
     print("Ha! Ha! Fooled you all")
+    
     print("I’m a submarine")
 }
 
@@ -39,3 +40,11 @@ func laughingSubmarine() {
 //: On the next page, learn about one of the things that can go wrong when using functions of functions.
 //:
 //: [Previous](@previous)  |  page 6 of 12  |  [Next: Infinite Loops](@next)
+func laughingSubmarine2() {
+    print("Ha! Ha! Fooled you all")
+}
+func laughingSubmarine3(){
+    print("I’m a submarine")
+}
+laughingSubmarine3 ()
+

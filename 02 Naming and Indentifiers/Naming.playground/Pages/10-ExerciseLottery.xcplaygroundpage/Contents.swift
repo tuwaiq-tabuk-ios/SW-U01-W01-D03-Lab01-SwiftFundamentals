@@ -27,7 +27,20 @@ let totalExpenses = printingCosts + advertising
 let profit = totalTakings - jackpot - totalExpenses
 
 // Distribution
-let programmersCut = profit / 10 // This is the answer you want to get over 100! 👉 
+let programmersCut = profit / 10 // This is the answer you want to get over 100! 👉
+
 let friendsCut = profit - programmersCut
+
+let ticketsSold2 = 700
+let ticketPrice2 = 2
+let printingCosts2 = 1
+let advertising2 = 1
+
+
+let MtotalTakings = ticketPrice2 * ticketsSold2
+let Mjackpot = MtotalTakings / 2
+let MtotalExpenses = printingCosts2 + advertising2
+let Mprofit = totalTakings - Mjackpot - MtotalExpenses
+let MprogrammersCut = Mprofit / 10
 
 //:[Previous](@previous)  |  page 11 of 14  |  [Next: Exercise: What Fits on Your iPhone?](@next)

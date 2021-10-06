@@ -26,7 +26,12 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
+func Myfunction(){
+    print("mona")
 
+}
+Myfunction()
+    
 
 
 
