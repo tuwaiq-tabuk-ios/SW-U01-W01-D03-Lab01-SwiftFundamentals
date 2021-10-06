@@ -35,3 +35,11 @@ let finishedMessage = username + " " + likesYourPostMessage
 //: Next, find out how building strings by adding them can get complicated.
 //:
 //:[Previous](@previous)  |  page 5 of 16  |  [Next: Fill In The Blanks](@next)
+let FirstName = "Bushra"
+let LastName = "Alatwi"
+
+let LikesYourPostMessage = "likes your post"
+let FinishedMessage1 = FirstName + " " + LastName
+let FinishedMessage2 = FirstName + " " + LikesYourPostMessage
+
+

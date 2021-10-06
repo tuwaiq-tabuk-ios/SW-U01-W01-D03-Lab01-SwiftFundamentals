@@ -5,8 +5,6 @@
  
  - callout(Exercise): Create a constant for each activity you do in the morning before leaving home: things like `brushTeeth`, `uploadPhotos`, `chooseClothes`, `shower`, `goJogging`, `finishHomework`, `fixLunch`, and so on. Think about how many minutes each activity usually takes, and assign that value to each constant.
  */
-let brushTeeth = 3
-// Add more here...
 
 //: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
 
@@ -31,3 +29,19 @@ let brushTeeth = 3
 
 
 //:[Previous](@previous)  |  page 13 of 14  |  [Next: Exercise: Good Names](@next)
+let brushTeeth = 3
+// Add more here...
+
+let UploadPhotos = 3
+let chooseClothes = 5
+let Shower = 5
+let GoJogging = 30
+let FinishHomework = 40
+let FixLunch = 30
+
+let TotalTimeSpend = (3 + 3 + 5 + 5 + 30 + 40 + 30)
+
+let ThingsShouldedo = ( brushTeeth + chooseClothes + Shower)
+let ThingsIlikeDo =  GoJogging
+let thingsIdontLikeDo = FixLunch
+

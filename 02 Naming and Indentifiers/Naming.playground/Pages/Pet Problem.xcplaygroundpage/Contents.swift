@@ -34,3 +34,14 @@
 //:  Could there be a better way to solve this problem? Think about it for a minute or two, then move on.
 //:
 //:[Previous](@previous)  |  page 2 of 14  |  [Next: Pet Problem Recap](@next)
+//number of Dog
+5 + 1
+
+//number of turtles
+3 - 1
+
+//number of cat
+5 + 1
+
+//number of a mammal
+9 + 1

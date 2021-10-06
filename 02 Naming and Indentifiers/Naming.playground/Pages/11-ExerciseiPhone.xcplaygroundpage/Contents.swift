@@ -16,8 +16,9 @@
  _Hint_: Do all of your calculations in megabytes (MB).
 */
 
-
-
-
-
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+let totalIphonStorage = 8 * 1000
+let iphonStorageUsedd = 2 * 1000
+let oneMinutOfVide = 150
+
+let minutsOfVideo = (totalIphonStorage - iphonStorageUsedd) / oneMinutOfVide
