@@ -14,7 +14,12 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let iphoneStrageInMegaBetes = 8 * 1000 //Iphone storage is 8GB
+let iphoneStrageUsedInMegabytes = 3 * 1000
+let oenMiuntVeideoUsedInMegabytes = 150
 
+let minute = ( iphoneStrageInMegaBetes - iphoneStrageUsedInMegabytes) / oenMiuntVeideoUsedInMegabytes
+let howmanyMinute = "You can record \(minute) more minutes of video."
 
 
 

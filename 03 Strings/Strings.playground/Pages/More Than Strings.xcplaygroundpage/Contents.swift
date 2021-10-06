@@ -4,7 +4,7 @@ let goalieName = "Alison"
 let firstHalfSaves = 3
 let secondHalfSaves = 6
 let overtimeSaves = 2
-let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSaves) saves in the first half, \(secondHalfSaves) in the second half and \(overtimeSaves) saves in overtime, for a total of \(firstHalfSaves + secondHalfSaves + overtimeSaves) saves."
+let goalieReportString = "At the game yesterday , \(goalieName) had \(firstHalfSaves) saves in the first half, \(secondHalfSaves) in the second half and \(overtimeSaves) saves in overtime, for a total of \(firstHalfSaves + secondHalfSaves + overtimeSaves) saves."
 //:
 /*:
 - experiment: People have been playing fun fill-in-the-blank games for a long time. You can create a basic version of this kind of game in the playground:
@@ -15,8 +15,16 @@ let goalieReportString = "At the game yesterday, \(goalieName) had \(firstHalfSa
     Sample story: “Today was a big day for <name>. They had finally saved up <number> dollars and were going to buy a <adjective> <noun>. They went to the <noun> <place> feeling very <positive emotion>. But then they felt <negative emotion>. They were all out of <noun>!”
 */
 // Add your version of the story below
+let storyName = "Yazeed"
+let gamesNumber = 20
+let gamesAdjective = "Book"
+let gamesNoun = "Pwoer of Now"
+let placeName = "Jarir"
+let place = "library"
+let positiveEmotion = "Exited"
+let negativeEmotion = "Frustrated"
 
-
+let libstory = " Today was a big day for \(storyName) . They had finally saved up \(gamesNumber ) dollars and were going to buy a \(gamesAdjective) , \(gamesNoun) . They went to the \(placeName) \(place) feeling very \(positiveEmotion) . But then they felt \(negativeEmotion) . They were all out of \(place)!"
 
 //:
 //:
