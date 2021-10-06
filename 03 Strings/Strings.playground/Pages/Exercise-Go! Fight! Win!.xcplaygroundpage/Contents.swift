@@ -17,7 +17,7 @@
  */
 
 
-let schoolName = "YOUR SCHOOL NAME"
+let schoolName = "Titans School"
 let refrain = "hmm hmm HMMM hm-hmm \(schoolName) hmm hmm HMMMMM"
 
 let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
@@ -26,3 +26,9 @@ let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
 
 //:
 //:[Previous](@previous)  |  page 15 of 16 |  [Next: Exercise: Displaying Values](@next)
+let schoolName2 = "Titans School"
+let refrain2 = "laan laa la la laaaa lelelele\(schoolName) ohaaaaaaooooo la la la"
+let repeated = refrain2
+let song2 = "\(refrain)\n\(refrain)\nYes, \(refrain) \n \(repeated)\n \(repeated)"
+
+let interpolation = song2

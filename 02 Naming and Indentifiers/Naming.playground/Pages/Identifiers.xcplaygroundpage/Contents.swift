@@ -12,9 +12,15 @@ let numberOfTurtles = 2 + 1
 
 let numberOfHamsters = 1 + 1
 
-let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters
+let numberOfPotBelliedPig = 1
 
-let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
+let numberOfFish = 1
+
+let numberOfSnake = 1
+
+let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberOfPotBelliedPig + numberOfFish + numberOfSnake
+
+let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPotBelliedPig
 
 //: - experiment: There are even more changes in the pets expected at the pet show.\
 //:To add new kinds of animals, add new lines of code that define new constants. (To add a new line of code just click on a blank line in the area above and start typing.)
@@ -27,3 +33,20 @@ let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 //: Next, learn about choosing names. 
 //:
 //:[Previous](@previous)  |  page 6 of 14  |  [Next: Choosing Good Names](@next)
+let numberOfDogs2 = 6 + 2
+
+let numberOfCats2 = 5 - 1
+
+let numberOfTurtles2 = 2 + 1
+
+let numberOfHamsters2 = 1 + 1
+
+let numberOfPotBelliedPig2 = 1
+
+let numberOfFish2 = 1
+
+let numberOfSnake2 = 1
+
+let totalNumberOfAnimals2 = numberOfDogs + numberOfCats + numberOfTurtles + numberOfHamsters + numberOfPotBelliedPig + numberOfFish + numberOfSnake
+
+let totalNumberOfMammals2 = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPotBelliedPig

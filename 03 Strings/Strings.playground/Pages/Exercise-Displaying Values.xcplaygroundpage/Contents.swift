@@ -14,8 +14,21 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let iPhoneStorageGB = 8
 
+let MegaByte = 1000
 
+let iPhoneStorageMB = iPhoneStorageGB *  MegaByte
+
+let iPhoneStorageUsedGB = 3
+
+let iPoneStorageUsedMB = iPhoneStorageUsedGB * MegaByte
+
+let videoTakesMB = 150
+
+let MinutesHave = (iPhoneStorageMB - iPoneStorageUsedMB) / videoTakesMB
+
+let message = "You can record \(MinutesHave) more minutes of video."
 
 
 

@@ -26,11 +26,25 @@ let customerOrderSix = "小笼包"
 - callout(Exercise):
  Make sure the server repeats the order correctly *without* copying and pasting or retyping any of the orders.
  */
-let serverResponseToTableTwo = "Let me make sure I've got this right: <Enter the Order Here>"
+let serverResponseToTableTwo = "Let me make sure I've got this right:\(customerOrderFour)  \(customerOrderFive) and \(customerOrderSix)"
 
 let tableTwoResponse = "Perfect, merci bien."
 
 
 
+
+
 //:
 //:[Previous](@previous)  |  page 14 of 16  |  [Next: Exercise: Go! Fight! Win!](@next)
+
+let customerOrderFour2 = "돌솥비빔밥"
+let customerOrderFive2 = "Pasztecik szczeciński"
+let customerOrderSix2 = "小笼包"
+
+
+
+
+
+let serverResponseToTableTwo2 = "Let me make sure I've got this right:\(customerOrderFour2)  \(customerOrderFive2) and \(customerOrderSix2)"
+
+let tableTwoResponse2 = "Perfect, merci bien."
