@@ -7,7 +7,7 @@
 //: 
 //: A comment starts with two slashes `//` :
 // This is a comment; it does not affect the code
-34 + 56 + 230
+34 + 56 + 230 //
 //: Because comments are ignored, no result is displayed in the results bar for that line of code.
 // 200 + 34 + 45
 //: - experiment:\
@@ -19,3 +19,17 @@
 //: Take a deep breath and move on to the next page.
 //:
 //:[Previous](@previous)  |  page 4 of 7  |  [Next: When Things Go Wrong 😰](@next)
+// 34 + 56 + 230
+
+/*
+23
+34
+*/
+
+
+
+//44
+45
+//55
+//67
+

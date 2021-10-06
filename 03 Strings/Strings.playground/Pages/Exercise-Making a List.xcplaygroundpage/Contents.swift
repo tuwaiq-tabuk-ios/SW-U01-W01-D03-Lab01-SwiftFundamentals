@@ -12,7 +12,15 @@ let newline = "Making new lines"
 /*:
  - experiment: Make a new string constant that is a list of the things you’ve learned, with each entry on a new line. Make sure you add the result to the playground page so that you can see the list properly.
  */
-
+let constants2 = "Yousef"
+let unicode2 = "How are you ? (😎)"
+let combining2 = constants2 +  " " + unicode2
+let interpolation2 = "Hi \(combining2) \(unicode)"
+let escaping2 = "my Neme is \"Yousef\""
+let newline2 = """
+How are You ?
+fine  thank you.
+"""
 
 
 
