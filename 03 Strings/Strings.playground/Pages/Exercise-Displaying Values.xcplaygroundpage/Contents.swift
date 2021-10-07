@@ -31,8 +31,7 @@ let MinutesHave = (iPhoneStoreageMB - iPhoneStoreageHasMB) / videoTakesMB
 
 let message = "You can \(MinutesHave) more minutes of video."
 
-
-
+var ccjfo = ""
 
 
 
