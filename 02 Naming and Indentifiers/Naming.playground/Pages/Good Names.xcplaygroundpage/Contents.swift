@@ -26,3 +26,14 @@ let totalNumberOfMammals = 🐶 + 🐱 + 🐹 + 🐷
 //: Next, learn the official names for the work you’ve been doing.
 //:
 //:[Previous](@previous)  |  page 7 of 14  |  [Next: Programmer Talk](@next)
+let numberOfDogs = 8
+let numberOfCats = 4
+let numberOfHamsters = 2
+let numberOfTurtles = 3
+let numberOfSnake = 1
+let numberOfPot_BelliedPig = 1
+let numberOfFish = 1
+
+let totalNumberOfAnimals2 = numberOfDogs + numberOfCats + numberOfHamsters + numberOfTurtles + numberOfSnake + numberOfPot_BelliedPig + numberOfFish
+
+let totalNumberOfMammals2 = numberOfDogs + numberOfCats + numberOfHamsters + numberOfPot_BelliedPig

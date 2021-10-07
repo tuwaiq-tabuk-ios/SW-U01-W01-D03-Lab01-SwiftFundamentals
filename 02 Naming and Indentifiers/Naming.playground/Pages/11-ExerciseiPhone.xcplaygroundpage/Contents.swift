@@ -16,8 +16,24 @@
  _Hint_: Do all of your calculations in megabytes (MB).
 */
 
-
-
-
-
 //:[Previous](@previous)  |  page 12 of 14  |  [Next: Exercise: Fixing Your Morning](@next)
+
+let iPhoneStorageGB = 8 // 8GB
+
+let MegaBytes = 1000 // 1000MB
+
+let iPhoneHasGB = 3 // 3GB
+
+let VideoTakeFromStorage = 150 // 150MB
+
+let iPhoneStorageOnMB = iPhoneStorageGB * MegaBytes
+
+let iPhoneHasOnMB =  iPhoneHasGB * MegaBytes
+
+let totalStorageOniPhone = iPhoneStorageOnMB - iPhoneHasOnMB
+
+let totalMinutesNeed = totalStorageOniPhone / VideoTakeFromStorage
+
+
+
+

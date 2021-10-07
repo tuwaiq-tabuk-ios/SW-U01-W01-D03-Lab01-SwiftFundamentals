@@ -8,10 +8,11 @@ let traditionalGreeting = "Hello, world!"
 //: The declared string values also appear in the results sidebar. 👉
 //: - experiment: Practice by declaring `favoriteMovie` and `favoriteSong` string constants for your favorite movie and song:
 // Declare a favoriteMovie constant
-
+let myFavoriteMovieName = "The Tomorrow War"
 
 // Declare a favoriteSong constant
 
+let myFavoriteSong = "Al Amaken Mohammed Abdo"
 
 //: Next, take a string-based trip around the world.
 //:
